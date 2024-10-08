@@ -1,1 +1,5 @@
-[Video Demo](https://youtu.be/CXNV9m3brr8?si=0pXy3WvmzQcQK4Ut)
+## Project: Google Maps Traffic Scraping
+
+Source code dan penjelasan lengkap bisa dilihat di file [riset1.py](./riset1.py).
+
+Untuk melihat demo video, silakan klik tautan berikut: [Video Demo](https://www.youtube.com/watch?v=VIDEO_ID).
