@@ -4,6 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
+import csv
 
 # initiate driver
 print("initiate driver")
@@ -57,6 +58,9 @@ print('Cari elemen slider jam (span dg role="slider")')
 time_slider = driver.find_element(By.XPATH, "//span[@role='slider']")
 time.sleep(2)
 
+csv_data = [
+    ["no.", "lokasi", "hari", "jam", "file"] #kolom
+]
 days = ["Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu"]
 for day in days:
     print("---------------------------------------------------------------------")
@@ -79,19 +83,28 @@ for day in days:
         time_slider.send_keys(Keys.ARROW_LEFT)
     time.sleep(1)
 
-    for _ in range(jam_available * position_per_jam):
+    for i in range(jam_available * position_per_jam):
         # Ekstrak teks dari elemen dg class "Jga6Nb"
         traffic_info_div = driver.find_element(By.CLASS_NAME, "Jga6Nb")
         traffic_info_text = traffic_info_div.text
         waktu_hasil = traffic_info_text.split(",")
         print("waktu_hasil", waktu_hasil)
-        # save screenshot
-        driver.save_screenshot(f'data/traffic_{search}_{day}-{waktu_hasil[1]}.png')
+        # save data
+        filename = f'data/traffic_{search}_{day}-{waktu_hasil[1]}.png'
+        # save file
+        driver.save_screenshot(filename)
+        # go to save csv
+        csv_data.append([(i+1), search, day, waktu_hasil[1], filename])
         if waktu_hasil[1] == "22.00":
             print("reach 22.00, complete for " + day)
             break
         time_slider.send_keys(Keys.ARROW_RIGHT)
         time.sleep(1)
+print("scraping done")
 
-print("DONE")
+# buat versi tabel (csv) nya
+with open('typical_traffic.csv', mode='w', newline='') as file:
+    writer = csv.writer(file, delimiter=';')
+    writer.writerows(csv_data)
+    
 driver.quit()
