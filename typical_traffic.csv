@@ -1,708 +1,708 @@
-no.;lokasi;hari;jam;file
-1;jalan jenderal sudirman semarang;Minggu;06.00;data/traffic_jalan jenderal sudirman semarang_Minggu-06.00.png
-2;jalan jenderal sudirman semarang;Minggu;06.10;data/traffic_jalan jenderal sudirman semarang_Minggu-06.10.png
-3;jalan jenderal sudirman semarang;Minggu;06.20;data/traffic_jalan jenderal sudirman semarang_Minggu-06.20.png
-4;jalan jenderal sudirman semarang;Minggu;06.30;data/traffic_jalan jenderal sudirman semarang_Minggu-06.30.png
-5;jalan jenderal sudirman semarang;Minggu;06.40;data/traffic_jalan jenderal sudirman semarang_Minggu-06.40.png
-6;jalan jenderal sudirman semarang;Minggu;06.50;data/traffic_jalan jenderal sudirman semarang_Minggu-06.50.png
-7;jalan jenderal sudirman semarang;Minggu;07.00;data/traffic_jalan jenderal sudirman semarang_Minggu-07.00.png
-8;jalan jenderal sudirman semarang;Minggu;07.10;data/traffic_jalan jenderal sudirman semarang_Minggu-07.10.png
-9;jalan jenderal sudirman semarang;Minggu;07.20;data/traffic_jalan jenderal sudirman semarang_Minggu-07.20.png
-10;jalan jenderal sudirman semarang;Minggu;07.30;data/traffic_jalan jenderal sudirman semarang_Minggu-07.30.png
-11;jalan jenderal sudirman semarang;Minggu;07.40;data/traffic_jalan jenderal sudirman semarang_Minggu-07.40.png
-12;jalan jenderal sudirman semarang;Minggu;07.50;data/traffic_jalan jenderal sudirman semarang_Minggu-07.50.png
-13;jalan jenderal sudirman semarang;Minggu;08.00;data/traffic_jalan jenderal sudirman semarang_Minggu-08.00.png
-14;jalan jenderal sudirman semarang;Minggu;08.05;data/traffic_jalan jenderal sudirman semarang_Minggu-08.05.png
-15;jalan jenderal sudirman semarang;Minggu;08.15;data/traffic_jalan jenderal sudirman semarang_Minggu-08.15.png
-16;jalan jenderal sudirman semarang;Minggu;08.25;data/traffic_jalan jenderal sudirman semarang_Minggu-08.25.png
-17;jalan jenderal sudirman semarang;Minggu;08.35;data/traffic_jalan jenderal sudirman semarang_Minggu-08.35.png
-18;jalan jenderal sudirman semarang;Minggu;08.45;data/traffic_jalan jenderal sudirman semarang_Minggu-08.45.png
-19;jalan jenderal sudirman semarang;Minggu;08.55;data/traffic_jalan jenderal sudirman semarang_Minggu-08.55.png
-20;jalan jenderal sudirman semarang;Minggu;09.05;data/traffic_jalan jenderal sudirman semarang_Minggu-09.05.png
-21;jalan jenderal sudirman semarang;Minggu;09.15;data/traffic_jalan jenderal sudirman semarang_Minggu-09.15.png
-22;jalan jenderal sudirman semarang;Minggu;09.25;data/traffic_jalan jenderal sudirman semarang_Minggu-09.25.png
-23;jalan jenderal sudirman semarang;Minggu;09.35;data/traffic_jalan jenderal sudirman semarang_Minggu-09.35.png
-24;jalan jenderal sudirman semarang;Minggu;09.45;data/traffic_jalan jenderal sudirman semarang_Minggu-09.45.png
-25;jalan jenderal sudirman semarang;Minggu;09.55;data/traffic_jalan jenderal sudirman semarang_Minggu-09.55.png
-26;jalan jenderal sudirman semarang;Minggu;10.00;data/traffic_jalan jenderal sudirman semarang_Minggu-10.00.png
-27;jalan jenderal sudirman semarang;Minggu;10.10;data/traffic_jalan jenderal sudirman semarang_Minggu-10.10.png
-28;jalan jenderal sudirman semarang;Minggu;10.20;data/traffic_jalan jenderal sudirman semarang_Minggu-10.20.png
-29;jalan jenderal sudirman semarang;Minggu;10.30;data/traffic_jalan jenderal sudirman semarang_Minggu-10.30.png
-30;jalan jenderal sudirman semarang;Minggu;10.40;data/traffic_jalan jenderal sudirman semarang_Minggu-10.40.png
-31;jalan jenderal sudirman semarang;Minggu;10.50;data/traffic_jalan jenderal sudirman semarang_Minggu-10.50.png
-32;jalan jenderal sudirman semarang;Minggu;11.00;data/traffic_jalan jenderal sudirman semarang_Minggu-11.00.png
-33;jalan jenderal sudirman semarang;Minggu;11.10;data/traffic_jalan jenderal sudirman semarang_Minggu-11.10.png
-34;jalan jenderal sudirman semarang;Minggu;11.20;data/traffic_jalan jenderal sudirman semarang_Minggu-11.20.png
-35;jalan jenderal sudirman semarang;Minggu;11.30;data/traffic_jalan jenderal sudirman semarang_Minggu-11.30.png
-36;jalan jenderal sudirman semarang;Minggu;11.40;data/traffic_jalan jenderal sudirman semarang_Minggu-11.40.png
-37;jalan jenderal sudirman semarang;Minggu;11.50;data/traffic_jalan jenderal sudirman semarang_Minggu-11.50.png
-38;jalan jenderal sudirman semarang;Minggu;12.00;data/traffic_jalan jenderal sudirman semarang_Minggu-12.00.png
-39;jalan jenderal sudirman semarang;Minggu;12.05;data/traffic_jalan jenderal sudirman semarang_Minggu-12.05.png
-40;jalan jenderal sudirman semarang;Minggu;12.15;data/traffic_jalan jenderal sudirman semarang_Minggu-12.15.png
-41;jalan jenderal sudirman semarang;Minggu;12.25;data/traffic_jalan jenderal sudirman semarang_Minggu-12.25.png
-42;jalan jenderal sudirman semarang;Minggu;12.35;data/traffic_jalan jenderal sudirman semarang_Minggu-12.35.png
-43;jalan jenderal sudirman semarang;Minggu;12.45;data/traffic_jalan jenderal sudirman semarang_Minggu-12.45.png
-44;jalan jenderal sudirman semarang;Minggu;12.55;data/traffic_jalan jenderal sudirman semarang_Minggu-12.55.png
-45;jalan jenderal sudirman semarang;Minggu;13.05;data/traffic_jalan jenderal sudirman semarang_Minggu-13.05.png
-46;jalan jenderal sudirman semarang;Minggu;13.15;data/traffic_jalan jenderal sudirman semarang_Minggu-13.15.png
-47;jalan jenderal sudirman semarang;Minggu;13.25;data/traffic_jalan jenderal sudirman semarang_Minggu-13.25.png
-48;jalan jenderal sudirman semarang;Minggu;13.35;data/traffic_jalan jenderal sudirman semarang_Minggu-13.35.png
-49;jalan jenderal sudirman semarang;Minggu;13.45;data/traffic_jalan jenderal sudirman semarang_Minggu-13.45.png
-50;jalan jenderal sudirman semarang;Minggu;13.55;data/traffic_jalan jenderal sudirman semarang_Minggu-13.55.png
-51;jalan jenderal sudirman semarang;Minggu;14.00;data/traffic_jalan jenderal sudirman semarang_Minggu-14.00.png
-52;jalan jenderal sudirman semarang;Minggu;14.10;data/traffic_jalan jenderal sudirman semarang_Minggu-14.10.png
-53;jalan jenderal sudirman semarang;Minggu;14.20;data/traffic_jalan jenderal sudirman semarang_Minggu-14.20.png
-54;jalan jenderal sudirman semarang;Minggu;14.30;data/traffic_jalan jenderal sudirman semarang_Minggu-14.30.png
-55;jalan jenderal sudirman semarang;Minggu;14.40;data/traffic_jalan jenderal sudirman semarang_Minggu-14.40.png
-56;jalan jenderal sudirman semarang;Minggu;14.50;data/traffic_jalan jenderal sudirman semarang_Minggu-14.50.png
-57;jalan jenderal sudirman semarang;Minggu;15.00;data/traffic_jalan jenderal sudirman semarang_Minggu-15.00.png
-58;jalan jenderal sudirman semarang;Minggu;15.10;data/traffic_jalan jenderal sudirman semarang_Minggu-15.10.png
-59;jalan jenderal sudirman semarang;Minggu;15.20;data/traffic_jalan jenderal sudirman semarang_Minggu-15.20.png
-60;jalan jenderal sudirman semarang;Minggu;15.30;data/traffic_jalan jenderal sudirman semarang_Minggu-15.30.png
-61;jalan jenderal sudirman semarang;Minggu;15.40;data/traffic_jalan jenderal sudirman semarang_Minggu-15.40.png
-62;jalan jenderal sudirman semarang;Minggu;15.50;data/traffic_jalan jenderal sudirman semarang_Minggu-15.50.png
-63;jalan jenderal sudirman semarang;Minggu;16.00;data/traffic_jalan jenderal sudirman semarang_Minggu-16.00.png
-64;jalan jenderal sudirman semarang;Minggu;16.05;data/traffic_jalan jenderal sudirman semarang_Minggu-16.05.png
-65;jalan jenderal sudirman semarang;Minggu;16.15;data/traffic_jalan jenderal sudirman semarang_Minggu-16.15.png
-66;jalan jenderal sudirman semarang;Minggu;16.25;data/traffic_jalan jenderal sudirman semarang_Minggu-16.25.png
-67;jalan jenderal sudirman semarang;Minggu;16.35;data/traffic_jalan jenderal sudirman semarang_Minggu-16.35.png
-68;jalan jenderal sudirman semarang;Minggu;16.45;data/traffic_jalan jenderal sudirman semarang_Minggu-16.45.png
-69;jalan jenderal sudirman semarang;Minggu;16.55;data/traffic_jalan jenderal sudirman semarang_Minggu-16.55.png
-70;jalan jenderal sudirman semarang;Minggu;17.05;data/traffic_jalan jenderal sudirman semarang_Minggu-17.05.png
-71;jalan jenderal sudirman semarang;Minggu;17.15;data/traffic_jalan jenderal sudirman semarang_Minggu-17.15.png
-72;jalan jenderal sudirman semarang;Minggu;17.25;data/traffic_jalan jenderal sudirman semarang_Minggu-17.25.png
-73;jalan jenderal sudirman semarang;Minggu;17.35;data/traffic_jalan jenderal sudirman semarang_Minggu-17.35.png
-74;jalan jenderal sudirman semarang;Minggu;17.45;data/traffic_jalan jenderal sudirman semarang_Minggu-17.45.png
-75;jalan jenderal sudirman semarang;Minggu;17.55;data/traffic_jalan jenderal sudirman semarang_Minggu-17.55.png
-76;jalan jenderal sudirman semarang;Minggu;18.00;data/traffic_jalan jenderal sudirman semarang_Minggu-18.00.png
-77;jalan jenderal sudirman semarang;Minggu;18.10;data/traffic_jalan jenderal sudirman semarang_Minggu-18.10.png
-78;jalan jenderal sudirman semarang;Minggu;18.20;data/traffic_jalan jenderal sudirman semarang_Minggu-18.20.png
-79;jalan jenderal sudirman semarang;Minggu;18.30;data/traffic_jalan jenderal sudirman semarang_Minggu-18.30.png
-80;jalan jenderal sudirman semarang;Minggu;18.40;data/traffic_jalan jenderal sudirman semarang_Minggu-18.40.png
-81;jalan jenderal sudirman semarang;Minggu;18.50;data/traffic_jalan jenderal sudirman semarang_Minggu-18.50.png
-82;jalan jenderal sudirman semarang;Minggu;19.00;data/traffic_jalan jenderal sudirman semarang_Minggu-19.00.png
-83;jalan jenderal sudirman semarang;Minggu;19.10;data/traffic_jalan jenderal sudirman semarang_Minggu-19.10.png
-84;jalan jenderal sudirman semarang;Minggu;19.20;data/traffic_jalan jenderal sudirman semarang_Minggu-19.20.png
-85;jalan jenderal sudirman semarang;Minggu;19.30;data/traffic_jalan jenderal sudirman semarang_Minggu-19.30.png
-86;jalan jenderal sudirman semarang;Minggu;19.40;data/traffic_jalan jenderal sudirman semarang_Minggu-19.40.png
-87;jalan jenderal sudirman semarang;Minggu;19.50;data/traffic_jalan jenderal sudirman semarang_Minggu-19.50.png
-88;jalan jenderal sudirman semarang;Minggu;20.00;data/traffic_jalan jenderal sudirman semarang_Minggu-20.00.png
-89;jalan jenderal sudirman semarang;Minggu;20.05;data/traffic_jalan jenderal sudirman semarang_Minggu-20.05.png
-90;jalan jenderal sudirman semarang;Minggu;20.15;data/traffic_jalan jenderal sudirman semarang_Minggu-20.15.png
-91;jalan jenderal sudirman semarang;Minggu;20.25;data/traffic_jalan jenderal sudirman semarang_Minggu-20.25.png
-92;jalan jenderal sudirman semarang;Minggu;20.35;data/traffic_jalan jenderal sudirman semarang_Minggu-20.35.png
-93;jalan jenderal sudirman semarang;Minggu;20.45;data/traffic_jalan jenderal sudirman semarang_Minggu-20.45.png
-94;jalan jenderal sudirman semarang;Minggu;20.55;data/traffic_jalan jenderal sudirman semarang_Minggu-20.55.png
-95;jalan jenderal sudirman semarang;Minggu;21.05;data/traffic_jalan jenderal sudirman semarang_Minggu-21.05.png
-96;jalan jenderal sudirman semarang;Minggu;21.15;data/traffic_jalan jenderal sudirman semarang_Minggu-21.15.png
-97;jalan jenderal sudirman semarang;Minggu;21.25;data/traffic_jalan jenderal sudirman semarang_Minggu-21.25.png
-98;jalan jenderal sudirman semarang;Minggu;21.35;data/traffic_jalan jenderal sudirman semarang_Minggu-21.35.png
-99;jalan jenderal sudirman semarang;Minggu;21.45;data/traffic_jalan jenderal sudirman semarang_Minggu-21.45.png
-100;jalan jenderal sudirman semarang;Minggu;21.55;data/traffic_jalan jenderal sudirman semarang_Minggu-21.55.png
-101;jalan jenderal sudirman semarang;Minggu;22.00;data/traffic_jalan jenderal sudirman semarang_Minggu-22.00.png
-1;jalan jenderal sudirman semarang;Senin;06.00;data/traffic_jalan jenderal sudirman semarang_Senin-06.00.png
-2;jalan jenderal sudirman semarang;Senin;06.10;data/traffic_jalan jenderal sudirman semarang_Senin-06.10.png
-3;jalan jenderal sudirman semarang;Senin;06.20;data/traffic_jalan jenderal sudirman semarang_Senin-06.20.png
-4;jalan jenderal sudirman semarang;Senin;06.30;data/traffic_jalan jenderal sudirman semarang_Senin-06.30.png
-5;jalan jenderal sudirman semarang;Senin;06.40;data/traffic_jalan jenderal sudirman semarang_Senin-06.40.png
-6;jalan jenderal sudirman semarang;Senin;06.50;data/traffic_jalan jenderal sudirman semarang_Senin-06.50.png
-7;jalan jenderal sudirman semarang;Senin;07.00;data/traffic_jalan jenderal sudirman semarang_Senin-07.00.png
-8;jalan jenderal sudirman semarang;Senin;07.10;data/traffic_jalan jenderal sudirman semarang_Senin-07.10.png
-9;jalan jenderal sudirman semarang;Senin;07.20;data/traffic_jalan jenderal sudirman semarang_Senin-07.20.png
-10;jalan jenderal sudirman semarang;Senin;07.30;data/traffic_jalan jenderal sudirman semarang_Senin-07.30.png
-11;jalan jenderal sudirman semarang;Senin;07.40;data/traffic_jalan jenderal sudirman semarang_Senin-07.40.png
-12;jalan jenderal sudirman semarang;Senin;07.50;data/traffic_jalan jenderal sudirman semarang_Senin-07.50.png
-13;jalan jenderal sudirman semarang;Senin;08.00;data/traffic_jalan jenderal sudirman semarang_Senin-08.00.png
-14;jalan jenderal sudirman semarang;Senin;08.05;data/traffic_jalan jenderal sudirman semarang_Senin-08.05.png
-15;jalan jenderal sudirman semarang;Senin;08.15;data/traffic_jalan jenderal sudirman semarang_Senin-08.15.png
-16;jalan jenderal sudirman semarang;Senin;08.25;data/traffic_jalan jenderal sudirman semarang_Senin-08.25.png
-17;jalan jenderal sudirman semarang;Senin;08.35;data/traffic_jalan jenderal sudirman semarang_Senin-08.35.png
-18;jalan jenderal sudirman semarang;Senin;08.45;data/traffic_jalan jenderal sudirman semarang_Senin-08.45.png
-19;jalan jenderal sudirman semarang;Senin;08.55;data/traffic_jalan jenderal sudirman semarang_Senin-08.55.png
-20;jalan jenderal sudirman semarang;Senin;09.05;data/traffic_jalan jenderal sudirman semarang_Senin-09.05.png
-21;jalan jenderal sudirman semarang;Senin;09.15;data/traffic_jalan jenderal sudirman semarang_Senin-09.15.png
-22;jalan jenderal sudirman semarang;Senin;09.25;data/traffic_jalan jenderal sudirman semarang_Senin-09.25.png
-23;jalan jenderal sudirman semarang;Senin;09.35;data/traffic_jalan jenderal sudirman semarang_Senin-09.35.png
-24;jalan jenderal sudirman semarang;Senin;09.45;data/traffic_jalan jenderal sudirman semarang_Senin-09.45.png
-25;jalan jenderal sudirman semarang;Senin;09.55;data/traffic_jalan jenderal sudirman semarang_Senin-09.55.png
-26;jalan jenderal sudirman semarang;Senin;10.00;data/traffic_jalan jenderal sudirman semarang_Senin-10.00.png
-27;jalan jenderal sudirman semarang;Senin;10.10;data/traffic_jalan jenderal sudirman semarang_Senin-10.10.png
-28;jalan jenderal sudirman semarang;Senin;10.20;data/traffic_jalan jenderal sudirman semarang_Senin-10.20.png
-29;jalan jenderal sudirman semarang;Senin;10.30;data/traffic_jalan jenderal sudirman semarang_Senin-10.30.png
-30;jalan jenderal sudirman semarang;Senin;10.40;data/traffic_jalan jenderal sudirman semarang_Senin-10.40.png
-31;jalan jenderal sudirman semarang;Senin;10.50;data/traffic_jalan jenderal sudirman semarang_Senin-10.50.png
-32;jalan jenderal sudirman semarang;Senin;11.00;data/traffic_jalan jenderal sudirman semarang_Senin-11.00.png
-33;jalan jenderal sudirman semarang;Senin;11.10;data/traffic_jalan jenderal sudirman semarang_Senin-11.10.png
-34;jalan jenderal sudirman semarang;Senin;11.20;data/traffic_jalan jenderal sudirman semarang_Senin-11.20.png
-35;jalan jenderal sudirman semarang;Senin;11.30;data/traffic_jalan jenderal sudirman semarang_Senin-11.30.png
-36;jalan jenderal sudirman semarang;Senin;11.40;data/traffic_jalan jenderal sudirman semarang_Senin-11.40.png
-37;jalan jenderal sudirman semarang;Senin;11.50;data/traffic_jalan jenderal sudirman semarang_Senin-11.50.png
-38;jalan jenderal sudirman semarang;Senin;12.00;data/traffic_jalan jenderal sudirman semarang_Senin-12.00.png
-39;jalan jenderal sudirman semarang;Senin;12.05;data/traffic_jalan jenderal sudirman semarang_Senin-12.05.png
-40;jalan jenderal sudirman semarang;Senin;12.15;data/traffic_jalan jenderal sudirman semarang_Senin-12.15.png
-41;jalan jenderal sudirman semarang;Senin;12.25;data/traffic_jalan jenderal sudirman semarang_Senin-12.25.png
-42;jalan jenderal sudirman semarang;Senin;12.35;data/traffic_jalan jenderal sudirman semarang_Senin-12.35.png
-43;jalan jenderal sudirman semarang;Senin;12.45;data/traffic_jalan jenderal sudirman semarang_Senin-12.45.png
-44;jalan jenderal sudirman semarang;Senin;12.55;data/traffic_jalan jenderal sudirman semarang_Senin-12.55.png
-45;jalan jenderal sudirman semarang;Senin;13.05;data/traffic_jalan jenderal sudirman semarang_Senin-13.05.png
-46;jalan jenderal sudirman semarang;Senin;13.15;data/traffic_jalan jenderal sudirman semarang_Senin-13.15.png
-47;jalan jenderal sudirman semarang;Senin;13.25;data/traffic_jalan jenderal sudirman semarang_Senin-13.25.png
-48;jalan jenderal sudirman semarang;Senin;13.35;data/traffic_jalan jenderal sudirman semarang_Senin-13.35.png
-49;jalan jenderal sudirman semarang;Senin;13.45;data/traffic_jalan jenderal sudirman semarang_Senin-13.45.png
-50;jalan jenderal sudirman semarang;Senin;13.55;data/traffic_jalan jenderal sudirman semarang_Senin-13.55.png
-51;jalan jenderal sudirman semarang;Senin;14.00;data/traffic_jalan jenderal sudirman semarang_Senin-14.00.png
-52;jalan jenderal sudirman semarang;Senin;14.10;data/traffic_jalan jenderal sudirman semarang_Senin-14.10.png
-53;jalan jenderal sudirman semarang;Senin;14.20;data/traffic_jalan jenderal sudirman semarang_Senin-14.20.png
-54;jalan jenderal sudirman semarang;Senin;14.30;data/traffic_jalan jenderal sudirman semarang_Senin-14.30.png
-55;jalan jenderal sudirman semarang;Senin;14.40;data/traffic_jalan jenderal sudirman semarang_Senin-14.40.png
-56;jalan jenderal sudirman semarang;Senin;14.50;data/traffic_jalan jenderal sudirman semarang_Senin-14.50.png
-57;jalan jenderal sudirman semarang;Senin;15.00;data/traffic_jalan jenderal sudirman semarang_Senin-15.00.png
-58;jalan jenderal sudirman semarang;Senin;15.10;data/traffic_jalan jenderal sudirman semarang_Senin-15.10.png
-59;jalan jenderal sudirman semarang;Senin;15.20;data/traffic_jalan jenderal sudirman semarang_Senin-15.20.png
-60;jalan jenderal sudirman semarang;Senin;15.30;data/traffic_jalan jenderal sudirman semarang_Senin-15.30.png
-61;jalan jenderal sudirman semarang;Senin;15.40;data/traffic_jalan jenderal sudirman semarang_Senin-15.40.png
-62;jalan jenderal sudirman semarang;Senin;15.50;data/traffic_jalan jenderal sudirman semarang_Senin-15.50.png
-63;jalan jenderal sudirman semarang;Senin;16.00;data/traffic_jalan jenderal sudirman semarang_Senin-16.00.png
-64;jalan jenderal sudirman semarang;Senin;16.05;data/traffic_jalan jenderal sudirman semarang_Senin-16.05.png
-65;jalan jenderal sudirman semarang;Senin;16.15;data/traffic_jalan jenderal sudirman semarang_Senin-16.15.png
-66;jalan jenderal sudirman semarang;Senin;16.25;data/traffic_jalan jenderal sudirman semarang_Senin-16.25.png
-67;jalan jenderal sudirman semarang;Senin;16.35;data/traffic_jalan jenderal sudirman semarang_Senin-16.35.png
-68;jalan jenderal sudirman semarang;Senin;16.45;data/traffic_jalan jenderal sudirman semarang_Senin-16.45.png
-69;jalan jenderal sudirman semarang;Senin;16.55;data/traffic_jalan jenderal sudirman semarang_Senin-16.55.png
-70;jalan jenderal sudirman semarang;Senin;17.05;data/traffic_jalan jenderal sudirman semarang_Senin-17.05.png
-71;jalan jenderal sudirman semarang;Senin;17.15;data/traffic_jalan jenderal sudirman semarang_Senin-17.15.png
-72;jalan jenderal sudirman semarang;Senin;17.25;data/traffic_jalan jenderal sudirman semarang_Senin-17.25.png
-73;jalan jenderal sudirman semarang;Senin;17.35;data/traffic_jalan jenderal sudirman semarang_Senin-17.35.png
-74;jalan jenderal sudirman semarang;Senin;17.45;data/traffic_jalan jenderal sudirman semarang_Senin-17.45.png
-75;jalan jenderal sudirman semarang;Senin;17.55;data/traffic_jalan jenderal sudirman semarang_Senin-17.55.png
-76;jalan jenderal sudirman semarang;Senin;18.00;data/traffic_jalan jenderal sudirman semarang_Senin-18.00.png
-77;jalan jenderal sudirman semarang;Senin;18.10;data/traffic_jalan jenderal sudirman semarang_Senin-18.10.png
-78;jalan jenderal sudirman semarang;Senin;18.20;data/traffic_jalan jenderal sudirman semarang_Senin-18.20.png
-79;jalan jenderal sudirman semarang;Senin;18.30;data/traffic_jalan jenderal sudirman semarang_Senin-18.30.png
-80;jalan jenderal sudirman semarang;Senin;18.40;data/traffic_jalan jenderal sudirman semarang_Senin-18.40.png
-81;jalan jenderal sudirman semarang;Senin;18.50;data/traffic_jalan jenderal sudirman semarang_Senin-18.50.png
-82;jalan jenderal sudirman semarang;Senin;19.00;data/traffic_jalan jenderal sudirman semarang_Senin-19.00.png
-83;jalan jenderal sudirman semarang;Senin;19.10;data/traffic_jalan jenderal sudirman semarang_Senin-19.10.png
-84;jalan jenderal sudirman semarang;Senin;19.20;data/traffic_jalan jenderal sudirman semarang_Senin-19.20.png
-85;jalan jenderal sudirman semarang;Senin;19.30;data/traffic_jalan jenderal sudirman semarang_Senin-19.30.png
-86;jalan jenderal sudirman semarang;Senin;19.40;data/traffic_jalan jenderal sudirman semarang_Senin-19.40.png
-87;jalan jenderal sudirman semarang;Senin;19.50;data/traffic_jalan jenderal sudirman semarang_Senin-19.50.png
-88;jalan jenderal sudirman semarang;Senin;20.00;data/traffic_jalan jenderal sudirman semarang_Senin-20.00.png
-89;jalan jenderal sudirman semarang;Senin;20.05;data/traffic_jalan jenderal sudirman semarang_Senin-20.05.png
-90;jalan jenderal sudirman semarang;Senin;20.15;data/traffic_jalan jenderal sudirman semarang_Senin-20.15.png
-91;jalan jenderal sudirman semarang;Senin;20.25;data/traffic_jalan jenderal sudirman semarang_Senin-20.25.png
-92;jalan jenderal sudirman semarang;Senin;20.35;data/traffic_jalan jenderal sudirman semarang_Senin-20.35.png
-93;jalan jenderal sudirman semarang;Senin;20.45;data/traffic_jalan jenderal sudirman semarang_Senin-20.45.png
-94;jalan jenderal sudirman semarang;Senin;20.55;data/traffic_jalan jenderal sudirman semarang_Senin-20.55.png
-95;jalan jenderal sudirman semarang;Senin;21.05;data/traffic_jalan jenderal sudirman semarang_Senin-21.05.png
-96;jalan jenderal sudirman semarang;Senin;21.15;data/traffic_jalan jenderal sudirman semarang_Senin-21.15.png
-97;jalan jenderal sudirman semarang;Senin;21.25;data/traffic_jalan jenderal sudirman semarang_Senin-21.25.png
-98;jalan jenderal sudirman semarang;Senin;21.35;data/traffic_jalan jenderal sudirman semarang_Senin-21.35.png
-99;jalan jenderal sudirman semarang;Senin;21.45;data/traffic_jalan jenderal sudirman semarang_Senin-21.45.png
-100;jalan jenderal sudirman semarang;Senin;21.55;data/traffic_jalan jenderal sudirman semarang_Senin-21.55.png
-101;jalan jenderal sudirman semarang;Senin;22.00;data/traffic_jalan jenderal sudirman semarang_Senin-22.00.png
-1;jalan jenderal sudirman semarang;Selasa;06.00;data/traffic_jalan jenderal sudirman semarang_Selasa-06.00.png
-2;jalan jenderal sudirman semarang;Selasa;06.10;data/traffic_jalan jenderal sudirman semarang_Selasa-06.10.png
-3;jalan jenderal sudirman semarang;Selasa;06.20;data/traffic_jalan jenderal sudirman semarang_Selasa-06.20.png
-4;jalan jenderal sudirman semarang;Selasa;06.30;data/traffic_jalan jenderal sudirman semarang_Selasa-06.30.png
-5;jalan jenderal sudirman semarang;Selasa;06.40;data/traffic_jalan jenderal sudirman semarang_Selasa-06.40.png
-6;jalan jenderal sudirman semarang;Selasa;06.50;data/traffic_jalan jenderal sudirman semarang_Selasa-06.50.png
-7;jalan jenderal sudirman semarang;Selasa;07.00;data/traffic_jalan jenderal sudirman semarang_Selasa-07.00.png
-8;jalan jenderal sudirman semarang;Selasa;07.10;data/traffic_jalan jenderal sudirman semarang_Selasa-07.10.png
-9;jalan jenderal sudirman semarang;Selasa;07.20;data/traffic_jalan jenderal sudirman semarang_Selasa-07.20.png
-10;jalan jenderal sudirman semarang;Selasa;07.30;data/traffic_jalan jenderal sudirman semarang_Selasa-07.30.png
-11;jalan jenderal sudirman semarang;Selasa;07.40;data/traffic_jalan jenderal sudirman semarang_Selasa-07.40.png
-12;jalan jenderal sudirman semarang;Selasa;07.50;data/traffic_jalan jenderal sudirman semarang_Selasa-07.50.png
-13;jalan jenderal sudirman semarang;Selasa;08.00;data/traffic_jalan jenderal sudirman semarang_Selasa-08.00.png
-14;jalan jenderal sudirman semarang;Selasa;08.05;data/traffic_jalan jenderal sudirman semarang_Selasa-08.05.png
-15;jalan jenderal sudirman semarang;Selasa;08.15;data/traffic_jalan jenderal sudirman semarang_Selasa-08.15.png
-16;jalan jenderal sudirman semarang;Selasa;08.25;data/traffic_jalan jenderal sudirman semarang_Selasa-08.25.png
-17;jalan jenderal sudirman semarang;Selasa;08.35;data/traffic_jalan jenderal sudirman semarang_Selasa-08.35.png
-18;jalan jenderal sudirman semarang;Selasa;08.45;data/traffic_jalan jenderal sudirman semarang_Selasa-08.45.png
-19;jalan jenderal sudirman semarang;Selasa;08.55;data/traffic_jalan jenderal sudirman semarang_Selasa-08.55.png
-20;jalan jenderal sudirman semarang;Selasa;09.05;data/traffic_jalan jenderal sudirman semarang_Selasa-09.05.png
-21;jalan jenderal sudirman semarang;Selasa;09.15;data/traffic_jalan jenderal sudirman semarang_Selasa-09.15.png
-22;jalan jenderal sudirman semarang;Selasa;09.25;data/traffic_jalan jenderal sudirman semarang_Selasa-09.25.png
-23;jalan jenderal sudirman semarang;Selasa;09.35;data/traffic_jalan jenderal sudirman semarang_Selasa-09.35.png
-24;jalan jenderal sudirman semarang;Selasa;09.45;data/traffic_jalan jenderal sudirman semarang_Selasa-09.45.png
-25;jalan jenderal sudirman semarang;Selasa;09.55;data/traffic_jalan jenderal sudirman semarang_Selasa-09.55.png
-26;jalan jenderal sudirman semarang;Selasa;10.00;data/traffic_jalan jenderal sudirman semarang_Selasa-10.00.png
-27;jalan jenderal sudirman semarang;Selasa;10.10;data/traffic_jalan jenderal sudirman semarang_Selasa-10.10.png
-28;jalan jenderal sudirman semarang;Selasa;10.20;data/traffic_jalan jenderal sudirman semarang_Selasa-10.20.png
-29;jalan jenderal sudirman semarang;Selasa;10.30;data/traffic_jalan jenderal sudirman semarang_Selasa-10.30.png
-30;jalan jenderal sudirman semarang;Selasa;10.40;data/traffic_jalan jenderal sudirman semarang_Selasa-10.40.png
-31;jalan jenderal sudirman semarang;Selasa;10.50;data/traffic_jalan jenderal sudirman semarang_Selasa-10.50.png
-32;jalan jenderal sudirman semarang;Selasa;11.00;data/traffic_jalan jenderal sudirman semarang_Selasa-11.00.png
-33;jalan jenderal sudirman semarang;Selasa;11.10;data/traffic_jalan jenderal sudirman semarang_Selasa-11.10.png
-34;jalan jenderal sudirman semarang;Selasa;11.20;data/traffic_jalan jenderal sudirman semarang_Selasa-11.20.png
-35;jalan jenderal sudirman semarang;Selasa;11.30;data/traffic_jalan jenderal sudirman semarang_Selasa-11.30.png
-36;jalan jenderal sudirman semarang;Selasa;11.40;data/traffic_jalan jenderal sudirman semarang_Selasa-11.40.png
-37;jalan jenderal sudirman semarang;Selasa;11.50;data/traffic_jalan jenderal sudirman semarang_Selasa-11.50.png
-38;jalan jenderal sudirman semarang;Selasa;12.00;data/traffic_jalan jenderal sudirman semarang_Selasa-12.00.png
-39;jalan jenderal sudirman semarang;Selasa;12.05;data/traffic_jalan jenderal sudirman semarang_Selasa-12.05.png
-40;jalan jenderal sudirman semarang;Selasa;12.15;data/traffic_jalan jenderal sudirman semarang_Selasa-12.15.png
-41;jalan jenderal sudirman semarang;Selasa;12.25;data/traffic_jalan jenderal sudirman semarang_Selasa-12.25.png
-42;jalan jenderal sudirman semarang;Selasa;12.35;data/traffic_jalan jenderal sudirman semarang_Selasa-12.35.png
-43;jalan jenderal sudirman semarang;Selasa;12.45;data/traffic_jalan jenderal sudirman semarang_Selasa-12.45.png
-44;jalan jenderal sudirman semarang;Selasa;12.55;data/traffic_jalan jenderal sudirman semarang_Selasa-12.55.png
-45;jalan jenderal sudirman semarang;Selasa;13.05;data/traffic_jalan jenderal sudirman semarang_Selasa-13.05.png
-46;jalan jenderal sudirman semarang;Selasa;13.15;data/traffic_jalan jenderal sudirman semarang_Selasa-13.15.png
-47;jalan jenderal sudirman semarang;Selasa;13.25;data/traffic_jalan jenderal sudirman semarang_Selasa-13.25.png
-48;jalan jenderal sudirman semarang;Selasa;13.35;data/traffic_jalan jenderal sudirman semarang_Selasa-13.35.png
-49;jalan jenderal sudirman semarang;Selasa;13.45;data/traffic_jalan jenderal sudirman semarang_Selasa-13.45.png
-50;jalan jenderal sudirman semarang;Selasa;13.55;data/traffic_jalan jenderal sudirman semarang_Selasa-13.55.png
-51;jalan jenderal sudirman semarang;Selasa;14.00;data/traffic_jalan jenderal sudirman semarang_Selasa-14.00.png
-52;jalan jenderal sudirman semarang;Selasa;14.10;data/traffic_jalan jenderal sudirman semarang_Selasa-14.10.png
-53;jalan jenderal sudirman semarang;Selasa;14.20;data/traffic_jalan jenderal sudirman semarang_Selasa-14.20.png
-54;jalan jenderal sudirman semarang;Selasa;14.30;data/traffic_jalan jenderal sudirman semarang_Selasa-14.30.png
-55;jalan jenderal sudirman semarang;Selasa;14.40;data/traffic_jalan jenderal sudirman semarang_Selasa-14.40.png
-56;jalan jenderal sudirman semarang;Selasa;14.50;data/traffic_jalan jenderal sudirman semarang_Selasa-14.50.png
-57;jalan jenderal sudirman semarang;Selasa;15.00;data/traffic_jalan jenderal sudirman semarang_Selasa-15.00.png
-58;jalan jenderal sudirman semarang;Selasa;15.10;data/traffic_jalan jenderal sudirman semarang_Selasa-15.10.png
-59;jalan jenderal sudirman semarang;Selasa;15.20;data/traffic_jalan jenderal sudirman semarang_Selasa-15.20.png
-60;jalan jenderal sudirman semarang;Selasa;15.30;data/traffic_jalan jenderal sudirman semarang_Selasa-15.30.png
-61;jalan jenderal sudirman semarang;Selasa;15.40;data/traffic_jalan jenderal sudirman semarang_Selasa-15.40.png
-62;jalan jenderal sudirman semarang;Selasa;15.50;data/traffic_jalan jenderal sudirman semarang_Selasa-15.50.png
-63;jalan jenderal sudirman semarang;Selasa;16.00;data/traffic_jalan jenderal sudirman semarang_Selasa-16.00.png
-64;jalan jenderal sudirman semarang;Selasa;16.05;data/traffic_jalan jenderal sudirman semarang_Selasa-16.05.png
-65;jalan jenderal sudirman semarang;Selasa;16.15;data/traffic_jalan jenderal sudirman semarang_Selasa-16.15.png
-66;jalan jenderal sudirman semarang;Selasa;16.25;data/traffic_jalan jenderal sudirman semarang_Selasa-16.25.png
-67;jalan jenderal sudirman semarang;Selasa;16.35;data/traffic_jalan jenderal sudirman semarang_Selasa-16.35.png
-68;jalan jenderal sudirman semarang;Selasa;16.45;data/traffic_jalan jenderal sudirman semarang_Selasa-16.45.png
-69;jalan jenderal sudirman semarang;Selasa;16.55;data/traffic_jalan jenderal sudirman semarang_Selasa-16.55.png
-70;jalan jenderal sudirman semarang;Selasa;17.05;data/traffic_jalan jenderal sudirman semarang_Selasa-17.05.png
-71;jalan jenderal sudirman semarang;Selasa;17.15;data/traffic_jalan jenderal sudirman semarang_Selasa-17.15.png
-72;jalan jenderal sudirman semarang;Selasa;17.25;data/traffic_jalan jenderal sudirman semarang_Selasa-17.25.png
-73;jalan jenderal sudirman semarang;Selasa;17.35;data/traffic_jalan jenderal sudirman semarang_Selasa-17.35.png
-74;jalan jenderal sudirman semarang;Selasa;17.45;data/traffic_jalan jenderal sudirman semarang_Selasa-17.45.png
-75;jalan jenderal sudirman semarang;Selasa;17.55;data/traffic_jalan jenderal sudirman semarang_Selasa-17.55.png
-76;jalan jenderal sudirman semarang;Selasa;18.00;data/traffic_jalan jenderal sudirman semarang_Selasa-18.00.png
-77;jalan jenderal sudirman semarang;Selasa;18.10;data/traffic_jalan jenderal sudirman semarang_Selasa-18.10.png
-78;jalan jenderal sudirman semarang;Selasa;18.20;data/traffic_jalan jenderal sudirman semarang_Selasa-18.20.png
-79;jalan jenderal sudirman semarang;Selasa;18.30;data/traffic_jalan jenderal sudirman semarang_Selasa-18.30.png
-80;jalan jenderal sudirman semarang;Selasa;18.40;data/traffic_jalan jenderal sudirman semarang_Selasa-18.40.png
-81;jalan jenderal sudirman semarang;Selasa;18.50;data/traffic_jalan jenderal sudirman semarang_Selasa-18.50.png
-82;jalan jenderal sudirman semarang;Selasa;19.00;data/traffic_jalan jenderal sudirman semarang_Selasa-19.00.png
-83;jalan jenderal sudirman semarang;Selasa;19.10;data/traffic_jalan jenderal sudirman semarang_Selasa-19.10.png
-84;jalan jenderal sudirman semarang;Selasa;19.20;data/traffic_jalan jenderal sudirman semarang_Selasa-19.20.png
-85;jalan jenderal sudirman semarang;Selasa;19.30;data/traffic_jalan jenderal sudirman semarang_Selasa-19.30.png
-86;jalan jenderal sudirman semarang;Selasa;19.40;data/traffic_jalan jenderal sudirman semarang_Selasa-19.40.png
-87;jalan jenderal sudirman semarang;Selasa;19.50;data/traffic_jalan jenderal sudirman semarang_Selasa-19.50.png
-88;jalan jenderal sudirman semarang;Selasa;20.00;data/traffic_jalan jenderal sudirman semarang_Selasa-20.00.png
-89;jalan jenderal sudirman semarang;Selasa;20.05;data/traffic_jalan jenderal sudirman semarang_Selasa-20.05.png
-90;jalan jenderal sudirman semarang;Selasa;20.15;data/traffic_jalan jenderal sudirman semarang_Selasa-20.15.png
-91;jalan jenderal sudirman semarang;Selasa;20.25;data/traffic_jalan jenderal sudirman semarang_Selasa-20.25.png
-92;jalan jenderal sudirman semarang;Selasa;20.35;data/traffic_jalan jenderal sudirman semarang_Selasa-20.35.png
-93;jalan jenderal sudirman semarang;Selasa;20.45;data/traffic_jalan jenderal sudirman semarang_Selasa-20.45.png
-94;jalan jenderal sudirman semarang;Selasa;20.55;data/traffic_jalan jenderal sudirman semarang_Selasa-20.55.png
-95;jalan jenderal sudirman semarang;Selasa;21.05;data/traffic_jalan jenderal sudirman semarang_Selasa-21.05.png
-96;jalan jenderal sudirman semarang;Selasa;21.15;data/traffic_jalan jenderal sudirman semarang_Selasa-21.15.png
-97;jalan jenderal sudirman semarang;Selasa;21.25;data/traffic_jalan jenderal sudirman semarang_Selasa-21.25.png
-98;jalan jenderal sudirman semarang;Selasa;21.35;data/traffic_jalan jenderal sudirman semarang_Selasa-21.35.png
-99;jalan jenderal sudirman semarang;Selasa;21.45;data/traffic_jalan jenderal sudirman semarang_Selasa-21.45.png
-100;jalan jenderal sudirman semarang;Selasa;21.55;data/traffic_jalan jenderal sudirman semarang_Selasa-21.55.png
-101;jalan jenderal sudirman semarang;Selasa;22.00;data/traffic_jalan jenderal sudirman semarang_Selasa-22.00.png
-1;jalan jenderal sudirman semarang;Rabu;06.00;data/traffic_jalan jenderal sudirman semarang_Rabu-06.00.png
-2;jalan jenderal sudirman semarang;Rabu;06.10;data/traffic_jalan jenderal sudirman semarang_Rabu-06.10.png
-3;jalan jenderal sudirman semarang;Rabu;06.20;data/traffic_jalan jenderal sudirman semarang_Rabu-06.20.png
-4;jalan jenderal sudirman semarang;Rabu;06.30;data/traffic_jalan jenderal sudirman semarang_Rabu-06.30.png
-5;jalan jenderal sudirman semarang;Rabu;06.40;data/traffic_jalan jenderal sudirman semarang_Rabu-06.40.png
-6;jalan jenderal sudirman semarang;Rabu;06.50;data/traffic_jalan jenderal sudirman semarang_Rabu-06.50.png
-7;jalan jenderal sudirman semarang;Rabu;07.00;data/traffic_jalan jenderal sudirman semarang_Rabu-07.00.png
-8;jalan jenderal sudirman semarang;Rabu;07.10;data/traffic_jalan jenderal sudirman semarang_Rabu-07.10.png
-9;jalan jenderal sudirman semarang;Rabu;07.20;data/traffic_jalan jenderal sudirman semarang_Rabu-07.20.png
-10;jalan jenderal sudirman semarang;Rabu;07.30;data/traffic_jalan jenderal sudirman semarang_Rabu-07.30.png
-11;jalan jenderal sudirman semarang;Rabu;07.40;data/traffic_jalan jenderal sudirman semarang_Rabu-07.40.png
-12;jalan jenderal sudirman semarang;Rabu;07.50;data/traffic_jalan jenderal sudirman semarang_Rabu-07.50.png
-13;jalan jenderal sudirman semarang;Rabu;08.00;data/traffic_jalan jenderal sudirman semarang_Rabu-08.00.png
-14;jalan jenderal sudirman semarang;Rabu;08.05;data/traffic_jalan jenderal sudirman semarang_Rabu-08.05.png
-15;jalan jenderal sudirman semarang;Rabu;08.15;data/traffic_jalan jenderal sudirman semarang_Rabu-08.15.png
-16;jalan jenderal sudirman semarang;Rabu;08.25;data/traffic_jalan jenderal sudirman semarang_Rabu-08.25.png
-17;jalan jenderal sudirman semarang;Rabu;08.35;data/traffic_jalan jenderal sudirman semarang_Rabu-08.35.png
-18;jalan jenderal sudirman semarang;Rabu;08.45;data/traffic_jalan jenderal sudirman semarang_Rabu-08.45.png
-19;jalan jenderal sudirman semarang;Rabu;08.55;data/traffic_jalan jenderal sudirman semarang_Rabu-08.55.png
-20;jalan jenderal sudirman semarang;Rabu;09.05;data/traffic_jalan jenderal sudirman semarang_Rabu-09.05.png
-21;jalan jenderal sudirman semarang;Rabu;09.15;data/traffic_jalan jenderal sudirman semarang_Rabu-09.15.png
-22;jalan jenderal sudirman semarang;Rabu;09.25;data/traffic_jalan jenderal sudirman semarang_Rabu-09.25.png
-23;jalan jenderal sudirman semarang;Rabu;09.35;data/traffic_jalan jenderal sudirman semarang_Rabu-09.35.png
-24;jalan jenderal sudirman semarang;Rabu;09.45;data/traffic_jalan jenderal sudirman semarang_Rabu-09.45.png
-25;jalan jenderal sudirman semarang;Rabu;09.55;data/traffic_jalan jenderal sudirman semarang_Rabu-09.55.png
-26;jalan jenderal sudirman semarang;Rabu;10.00;data/traffic_jalan jenderal sudirman semarang_Rabu-10.00.png
-27;jalan jenderal sudirman semarang;Rabu;10.10;data/traffic_jalan jenderal sudirman semarang_Rabu-10.10.png
-28;jalan jenderal sudirman semarang;Rabu;10.20;data/traffic_jalan jenderal sudirman semarang_Rabu-10.20.png
-29;jalan jenderal sudirman semarang;Rabu;10.30;data/traffic_jalan jenderal sudirman semarang_Rabu-10.30.png
-30;jalan jenderal sudirman semarang;Rabu;10.40;data/traffic_jalan jenderal sudirman semarang_Rabu-10.40.png
-31;jalan jenderal sudirman semarang;Rabu;10.50;data/traffic_jalan jenderal sudirman semarang_Rabu-10.50.png
-32;jalan jenderal sudirman semarang;Rabu;11.00;data/traffic_jalan jenderal sudirman semarang_Rabu-11.00.png
-33;jalan jenderal sudirman semarang;Rabu;11.10;data/traffic_jalan jenderal sudirman semarang_Rabu-11.10.png
-34;jalan jenderal sudirman semarang;Rabu;11.20;data/traffic_jalan jenderal sudirman semarang_Rabu-11.20.png
-35;jalan jenderal sudirman semarang;Rabu;11.30;data/traffic_jalan jenderal sudirman semarang_Rabu-11.30.png
-36;jalan jenderal sudirman semarang;Rabu;11.40;data/traffic_jalan jenderal sudirman semarang_Rabu-11.40.png
-37;jalan jenderal sudirman semarang;Rabu;11.50;data/traffic_jalan jenderal sudirman semarang_Rabu-11.50.png
-38;jalan jenderal sudirman semarang;Rabu;12.00;data/traffic_jalan jenderal sudirman semarang_Rabu-12.00.png
-39;jalan jenderal sudirman semarang;Rabu;12.05;data/traffic_jalan jenderal sudirman semarang_Rabu-12.05.png
-40;jalan jenderal sudirman semarang;Rabu;12.15;data/traffic_jalan jenderal sudirman semarang_Rabu-12.15.png
-41;jalan jenderal sudirman semarang;Rabu;12.25;data/traffic_jalan jenderal sudirman semarang_Rabu-12.25.png
-42;jalan jenderal sudirman semarang;Rabu;12.35;data/traffic_jalan jenderal sudirman semarang_Rabu-12.35.png
-43;jalan jenderal sudirman semarang;Rabu;12.45;data/traffic_jalan jenderal sudirman semarang_Rabu-12.45.png
-44;jalan jenderal sudirman semarang;Rabu;12.55;data/traffic_jalan jenderal sudirman semarang_Rabu-12.55.png
-45;jalan jenderal sudirman semarang;Rabu;13.05;data/traffic_jalan jenderal sudirman semarang_Rabu-13.05.png
-46;jalan jenderal sudirman semarang;Rabu;13.15;data/traffic_jalan jenderal sudirman semarang_Rabu-13.15.png
-47;jalan jenderal sudirman semarang;Rabu;13.25;data/traffic_jalan jenderal sudirman semarang_Rabu-13.25.png
-48;jalan jenderal sudirman semarang;Rabu;13.35;data/traffic_jalan jenderal sudirman semarang_Rabu-13.35.png
-49;jalan jenderal sudirman semarang;Rabu;13.45;data/traffic_jalan jenderal sudirman semarang_Rabu-13.45.png
-50;jalan jenderal sudirman semarang;Rabu;13.55;data/traffic_jalan jenderal sudirman semarang_Rabu-13.55.png
-51;jalan jenderal sudirman semarang;Rabu;14.00;data/traffic_jalan jenderal sudirman semarang_Rabu-14.00.png
-52;jalan jenderal sudirman semarang;Rabu;14.10;data/traffic_jalan jenderal sudirman semarang_Rabu-14.10.png
-53;jalan jenderal sudirman semarang;Rabu;14.20;data/traffic_jalan jenderal sudirman semarang_Rabu-14.20.png
-54;jalan jenderal sudirman semarang;Rabu;14.30;data/traffic_jalan jenderal sudirman semarang_Rabu-14.30.png
-55;jalan jenderal sudirman semarang;Rabu;14.40;data/traffic_jalan jenderal sudirman semarang_Rabu-14.40.png
-56;jalan jenderal sudirman semarang;Rabu;14.50;data/traffic_jalan jenderal sudirman semarang_Rabu-14.50.png
-57;jalan jenderal sudirman semarang;Rabu;15.00;data/traffic_jalan jenderal sudirman semarang_Rabu-15.00.png
-58;jalan jenderal sudirman semarang;Rabu;15.10;data/traffic_jalan jenderal sudirman semarang_Rabu-15.10.png
-59;jalan jenderal sudirman semarang;Rabu;15.20;data/traffic_jalan jenderal sudirman semarang_Rabu-15.20.png
-60;jalan jenderal sudirman semarang;Rabu;15.30;data/traffic_jalan jenderal sudirman semarang_Rabu-15.30.png
-61;jalan jenderal sudirman semarang;Rabu;15.40;data/traffic_jalan jenderal sudirman semarang_Rabu-15.40.png
-62;jalan jenderal sudirman semarang;Rabu;15.50;data/traffic_jalan jenderal sudirman semarang_Rabu-15.50.png
-63;jalan jenderal sudirman semarang;Rabu;16.00;data/traffic_jalan jenderal sudirman semarang_Rabu-16.00.png
-64;jalan jenderal sudirman semarang;Rabu;16.05;data/traffic_jalan jenderal sudirman semarang_Rabu-16.05.png
-65;jalan jenderal sudirman semarang;Rabu;16.15;data/traffic_jalan jenderal sudirman semarang_Rabu-16.15.png
-66;jalan jenderal sudirman semarang;Rabu;16.25;data/traffic_jalan jenderal sudirman semarang_Rabu-16.25.png
-67;jalan jenderal sudirman semarang;Rabu;16.35;data/traffic_jalan jenderal sudirman semarang_Rabu-16.35.png
-68;jalan jenderal sudirman semarang;Rabu;16.45;data/traffic_jalan jenderal sudirman semarang_Rabu-16.45.png
-69;jalan jenderal sudirman semarang;Rabu;16.55;data/traffic_jalan jenderal sudirman semarang_Rabu-16.55.png
-70;jalan jenderal sudirman semarang;Rabu;17.05;data/traffic_jalan jenderal sudirman semarang_Rabu-17.05.png
-71;jalan jenderal sudirman semarang;Rabu;17.15;data/traffic_jalan jenderal sudirman semarang_Rabu-17.15.png
-72;jalan jenderal sudirman semarang;Rabu;17.25;data/traffic_jalan jenderal sudirman semarang_Rabu-17.25.png
-73;jalan jenderal sudirman semarang;Rabu;17.35;data/traffic_jalan jenderal sudirman semarang_Rabu-17.35.png
-74;jalan jenderal sudirman semarang;Rabu;17.45;data/traffic_jalan jenderal sudirman semarang_Rabu-17.45.png
-75;jalan jenderal sudirman semarang;Rabu;17.55;data/traffic_jalan jenderal sudirman semarang_Rabu-17.55.png
-76;jalan jenderal sudirman semarang;Rabu;18.00;data/traffic_jalan jenderal sudirman semarang_Rabu-18.00.png
-77;jalan jenderal sudirman semarang;Rabu;18.10;data/traffic_jalan jenderal sudirman semarang_Rabu-18.10.png
-78;jalan jenderal sudirman semarang;Rabu;18.20;data/traffic_jalan jenderal sudirman semarang_Rabu-18.20.png
-79;jalan jenderal sudirman semarang;Rabu;18.30;data/traffic_jalan jenderal sudirman semarang_Rabu-18.30.png
-80;jalan jenderal sudirman semarang;Rabu;18.40;data/traffic_jalan jenderal sudirman semarang_Rabu-18.40.png
-81;jalan jenderal sudirman semarang;Rabu;18.50;data/traffic_jalan jenderal sudirman semarang_Rabu-18.50.png
-82;jalan jenderal sudirman semarang;Rabu;19.00;data/traffic_jalan jenderal sudirman semarang_Rabu-19.00.png
-83;jalan jenderal sudirman semarang;Rabu;19.10;data/traffic_jalan jenderal sudirman semarang_Rabu-19.10.png
-84;jalan jenderal sudirman semarang;Rabu;19.20;data/traffic_jalan jenderal sudirman semarang_Rabu-19.20.png
-85;jalan jenderal sudirman semarang;Rabu;19.30;data/traffic_jalan jenderal sudirman semarang_Rabu-19.30.png
-86;jalan jenderal sudirman semarang;Rabu;19.40;data/traffic_jalan jenderal sudirman semarang_Rabu-19.40.png
-87;jalan jenderal sudirman semarang;Rabu;19.50;data/traffic_jalan jenderal sudirman semarang_Rabu-19.50.png
-88;jalan jenderal sudirman semarang;Rabu;20.00;data/traffic_jalan jenderal sudirman semarang_Rabu-20.00.png
-89;jalan jenderal sudirman semarang;Rabu;20.05;data/traffic_jalan jenderal sudirman semarang_Rabu-20.05.png
-90;jalan jenderal sudirman semarang;Rabu;20.15;data/traffic_jalan jenderal sudirman semarang_Rabu-20.15.png
-91;jalan jenderal sudirman semarang;Rabu;20.25;data/traffic_jalan jenderal sudirman semarang_Rabu-20.25.png
-92;jalan jenderal sudirman semarang;Rabu;20.35;data/traffic_jalan jenderal sudirman semarang_Rabu-20.35.png
-93;jalan jenderal sudirman semarang;Rabu;20.45;data/traffic_jalan jenderal sudirman semarang_Rabu-20.45.png
-94;jalan jenderal sudirman semarang;Rabu;20.55;data/traffic_jalan jenderal sudirman semarang_Rabu-20.55.png
-95;jalan jenderal sudirman semarang;Rabu;21.05;data/traffic_jalan jenderal sudirman semarang_Rabu-21.05.png
-96;jalan jenderal sudirman semarang;Rabu;21.15;data/traffic_jalan jenderal sudirman semarang_Rabu-21.15.png
-97;jalan jenderal sudirman semarang;Rabu;21.25;data/traffic_jalan jenderal sudirman semarang_Rabu-21.25.png
-98;jalan jenderal sudirman semarang;Rabu;21.35;data/traffic_jalan jenderal sudirman semarang_Rabu-21.35.png
-99;jalan jenderal sudirman semarang;Rabu;21.45;data/traffic_jalan jenderal sudirman semarang_Rabu-21.45.png
-100;jalan jenderal sudirman semarang;Rabu;21.55;data/traffic_jalan jenderal sudirman semarang_Rabu-21.55.png
-101;jalan jenderal sudirman semarang;Rabu;22.00;data/traffic_jalan jenderal sudirman semarang_Rabu-22.00.png
-1;jalan jenderal sudirman semarang;Kamis;06.00;data/traffic_jalan jenderal sudirman semarang_Kamis-06.00.png
-2;jalan jenderal sudirman semarang;Kamis;06.10;data/traffic_jalan jenderal sudirman semarang_Kamis-06.10.png
-3;jalan jenderal sudirman semarang;Kamis;06.20;data/traffic_jalan jenderal sudirman semarang_Kamis-06.20.png
-4;jalan jenderal sudirman semarang;Kamis;06.30;data/traffic_jalan jenderal sudirman semarang_Kamis-06.30.png
-5;jalan jenderal sudirman semarang;Kamis;06.40;data/traffic_jalan jenderal sudirman semarang_Kamis-06.40.png
-6;jalan jenderal sudirman semarang;Kamis;06.50;data/traffic_jalan jenderal sudirman semarang_Kamis-06.50.png
-7;jalan jenderal sudirman semarang;Kamis;07.00;data/traffic_jalan jenderal sudirman semarang_Kamis-07.00.png
-8;jalan jenderal sudirman semarang;Kamis;07.10;data/traffic_jalan jenderal sudirman semarang_Kamis-07.10.png
-9;jalan jenderal sudirman semarang;Kamis;07.20;data/traffic_jalan jenderal sudirman semarang_Kamis-07.20.png
-10;jalan jenderal sudirman semarang;Kamis;07.30;data/traffic_jalan jenderal sudirman semarang_Kamis-07.30.png
-11;jalan jenderal sudirman semarang;Kamis;07.40;data/traffic_jalan jenderal sudirman semarang_Kamis-07.40.png
-12;jalan jenderal sudirman semarang;Kamis;07.50;data/traffic_jalan jenderal sudirman semarang_Kamis-07.50.png
-13;jalan jenderal sudirman semarang;Kamis;08.00;data/traffic_jalan jenderal sudirman semarang_Kamis-08.00.png
-14;jalan jenderal sudirman semarang;Kamis;08.05;data/traffic_jalan jenderal sudirman semarang_Kamis-08.05.png
-15;jalan jenderal sudirman semarang;Kamis;08.15;data/traffic_jalan jenderal sudirman semarang_Kamis-08.15.png
-16;jalan jenderal sudirman semarang;Kamis;08.25;data/traffic_jalan jenderal sudirman semarang_Kamis-08.25.png
-17;jalan jenderal sudirman semarang;Kamis;08.35;data/traffic_jalan jenderal sudirman semarang_Kamis-08.35.png
-18;jalan jenderal sudirman semarang;Kamis;08.45;data/traffic_jalan jenderal sudirman semarang_Kamis-08.45.png
-19;jalan jenderal sudirman semarang;Kamis;08.55;data/traffic_jalan jenderal sudirman semarang_Kamis-08.55.png
-20;jalan jenderal sudirman semarang;Kamis;09.05;data/traffic_jalan jenderal sudirman semarang_Kamis-09.05.png
-21;jalan jenderal sudirman semarang;Kamis;09.15;data/traffic_jalan jenderal sudirman semarang_Kamis-09.15.png
-22;jalan jenderal sudirman semarang;Kamis;09.25;data/traffic_jalan jenderal sudirman semarang_Kamis-09.25.png
-23;jalan jenderal sudirman semarang;Kamis;09.35;data/traffic_jalan jenderal sudirman semarang_Kamis-09.35.png
-24;jalan jenderal sudirman semarang;Kamis;09.45;data/traffic_jalan jenderal sudirman semarang_Kamis-09.45.png
-25;jalan jenderal sudirman semarang;Kamis;09.55;data/traffic_jalan jenderal sudirman semarang_Kamis-09.55.png
-26;jalan jenderal sudirman semarang;Kamis;10.00;data/traffic_jalan jenderal sudirman semarang_Kamis-10.00.png
-27;jalan jenderal sudirman semarang;Kamis;10.10;data/traffic_jalan jenderal sudirman semarang_Kamis-10.10.png
-28;jalan jenderal sudirman semarang;Kamis;10.20;data/traffic_jalan jenderal sudirman semarang_Kamis-10.20.png
-29;jalan jenderal sudirman semarang;Kamis;10.30;data/traffic_jalan jenderal sudirman semarang_Kamis-10.30.png
-30;jalan jenderal sudirman semarang;Kamis;10.40;data/traffic_jalan jenderal sudirman semarang_Kamis-10.40.png
-31;jalan jenderal sudirman semarang;Kamis;10.50;data/traffic_jalan jenderal sudirman semarang_Kamis-10.50.png
-32;jalan jenderal sudirman semarang;Kamis;11.00;data/traffic_jalan jenderal sudirman semarang_Kamis-11.00.png
-33;jalan jenderal sudirman semarang;Kamis;11.10;data/traffic_jalan jenderal sudirman semarang_Kamis-11.10.png
-34;jalan jenderal sudirman semarang;Kamis;11.20;data/traffic_jalan jenderal sudirman semarang_Kamis-11.20.png
-35;jalan jenderal sudirman semarang;Kamis;11.30;data/traffic_jalan jenderal sudirman semarang_Kamis-11.30.png
-36;jalan jenderal sudirman semarang;Kamis;11.40;data/traffic_jalan jenderal sudirman semarang_Kamis-11.40.png
-37;jalan jenderal sudirman semarang;Kamis;11.50;data/traffic_jalan jenderal sudirman semarang_Kamis-11.50.png
-38;jalan jenderal sudirman semarang;Kamis;12.00;data/traffic_jalan jenderal sudirman semarang_Kamis-12.00.png
-39;jalan jenderal sudirman semarang;Kamis;12.05;data/traffic_jalan jenderal sudirman semarang_Kamis-12.05.png
-40;jalan jenderal sudirman semarang;Kamis;12.15;data/traffic_jalan jenderal sudirman semarang_Kamis-12.15.png
-41;jalan jenderal sudirman semarang;Kamis;12.25;data/traffic_jalan jenderal sudirman semarang_Kamis-12.25.png
-42;jalan jenderal sudirman semarang;Kamis;12.35;data/traffic_jalan jenderal sudirman semarang_Kamis-12.35.png
-43;jalan jenderal sudirman semarang;Kamis;12.45;data/traffic_jalan jenderal sudirman semarang_Kamis-12.45.png
-44;jalan jenderal sudirman semarang;Kamis;12.55;data/traffic_jalan jenderal sudirman semarang_Kamis-12.55.png
-45;jalan jenderal sudirman semarang;Kamis;13.05;data/traffic_jalan jenderal sudirman semarang_Kamis-13.05.png
-46;jalan jenderal sudirman semarang;Kamis;13.15;data/traffic_jalan jenderal sudirman semarang_Kamis-13.15.png
-47;jalan jenderal sudirman semarang;Kamis;13.25;data/traffic_jalan jenderal sudirman semarang_Kamis-13.25.png
-48;jalan jenderal sudirman semarang;Kamis;13.35;data/traffic_jalan jenderal sudirman semarang_Kamis-13.35.png
-49;jalan jenderal sudirman semarang;Kamis;13.45;data/traffic_jalan jenderal sudirman semarang_Kamis-13.45.png
-50;jalan jenderal sudirman semarang;Kamis;13.55;data/traffic_jalan jenderal sudirman semarang_Kamis-13.55.png
-51;jalan jenderal sudirman semarang;Kamis;14.00;data/traffic_jalan jenderal sudirman semarang_Kamis-14.00.png
-52;jalan jenderal sudirman semarang;Kamis;14.10;data/traffic_jalan jenderal sudirman semarang_Kamis-14.10.png
-53;jalan jenderal sudirman semarang;Kamis;14.20;data/traffic_jalan jenderal sudirman semarang_Kamis-14.20.png
-54;jalan jenderal sudirman semarang;Kamis;14.30;data/traffic_jalan jenderal sudirman semarang_Kamis-14.30.png
-55;jalan jenderal sudirman semarang;Kamis;14.40;data/traffic_jalan jenderal sudirman semarang_Kamis-14.40.png
-56;jalan jenderal sudirman semarang;Kamis;14.50;data/traffic_jalan jenderal sudirman semarang_Kamis-14.50.png
-57;jalan jenderal sudirman semarang;Kamis;15.00;data/traffic_jalan jenderal sudirman semarang_Kamis-15.00.png
-58;jalan jenderal sudirman semarang;Kamis;15.10;data/traffic_jalan jenderal sudirman semarang_Kamis-15.10.png
-59;jalan jenderal sudirman semarang;Kamis;15.20;data/traffic_jalan jenderal sudirman semarang_Kamis-15.20.png
-60;jalan jenderal sudirman semarang;Kamis;15.30;data/traffic_jalan jenderal sudirman semarang_Kamis-15.30.png
-61;jalan jenderal sudirman semarang;Kamis;15.40;data/traffic_jalan jenderal sudirman semarang_Kamis-15.40.png
-62;jalan jenderal sudirman semarang;Kamis;15.50;data/traffic_jalan jenderal sudirman semarang_Kamis-15.50.png
-63;jalan jenderal sudirman semarang;Kamis;16.00;data/traffic_jalan jenderal sudirman semarang_Kamis-16.00.png
-64;jalan jenderal sudirman semarang;Kamis;16.05;data/traffic_jalan jenderal sudirman semarang_Kamis-16.05.png
-65;jalan jenderal sudirman semarang;Kamis;16.15;data/traffic_jalan jenderal sudirman semarang_Kamis-16.15.png
-66;jalan jenderal sudirman semarang;Kamis;16.25;data/traffic_jalan jenderal sudirman semarang_Kamis-16.25.png
-67;jalan jenderal sudirman semarang;Kamis;16.35;data/traffic_jalan jenderal sudirman semarang_Kamis-16.35.png
-68;jalan jenderal sudirman semarang;Kamis;16.45;data/traffic_jalan jenderal sudirman semarang_Kamis-16.45.png
-69;jalan jenderal sudirman semarang;Kamis;16.55;data/traffic_jalan jenderal sudirman semarang_Kamis-16.55.png
-70;jalan jenderal sudirman semarang;Kamis;17.05;data/traffic_jalan jenderal sudirman semarang_Kamis-17.05.png
-71;jalan jenderal sudirman semarang;Kamis;17.15;data/traffic_jalan jenderal sudirman semarang_Kamis-17.15.png
-72;jalan jenderal sudirman semarang;Kamis;17.25;data/traffic_jalan jenderal sudirman semarang_Kamis-17.25.png
-73;jalan jenderal sudirman semarang;Kamis;17.35;data/traffic_jalan jenderal sudirman semarang_Kamis-17.35.png
-74;jalan jenderal sudirman semarang;Kamis;17.45;data/traffic_jalan jenderal sudirman semarang_Kamis-17.45.png
-75;jalan jenderal sudirman semarang;Kamis;17.55;data/traffic_jalan jenderal sudirman semarang_Kamis-17.55.png
-76;jalan jenderal sudirman semarang;Kamis;18.00;data/traffic_jalan jenderal sudirman semarang_Kamis-18.00.png
-77;jalan jenderal sudirman semarang;Kamis;18.10;data/traffic_jalan jenderal sudirman semarang_Kamis-18.10.png
-78;jalan jenderal sudirman semarang;Kamis;18.20;data/traffic_jalan jenderal sudirman semarang_Kamis-18.20.png
-79;jalan jenderal sudirman semarang;Kamis;18.30;data/traffic_jalan jenderal sudirman semarang_Kamis-18.30.png
-80;jalan jenderal sudirman semarang;Kamis;18.40;data/traffic_jalan jenderal sudirman semarang_Kamis-18.40.png
-81;jalan jenderal sudirman semarang;Kamis;18.50;data/traffic_jalan jenderal sudirman semarang_Kamis-18.50.png
-82;jalan jenderal sudirman semarang;Kamis;19.00;data/traffic_jalan jenderal sudirman semarang_Kamis-19.00.png
-83;jalan jenderal sudirman semarang;Kamis;19.10;data/traffic_jalan jenderal sudirman semarang_Kamis-19.10.png
-84;jalan jenderal sudirman semarang;Kamis;19.20;data/traffic_jalan jenderal sudirman semarang_Kamis-19.20.png
-85;jalan jenderal sudirman semarang;Kamis;19.30;data/traffic_jalan jenderal sudirman semarang_Kamis-19.30.png
-86;jalan jenderal sudirman semarang;Kamis;19.40;data/traffic_jalan jenderal sudirman semarang_Kamis-19.40.png
-87;jalan jenderal sudirman semarang;Kamis;19.50;data/traffic_jalan jenderal sudirman semarang_Kamis-19.50.png
-88;jalan jenderal sudirman semarang;Kamis;20.00;data/traffic_jalan jenderal sudirman semarang_Kamis-20.00.png
-89;jalan jenderal sudirman semarang;Kamis;20.05;data/traffic_jalan jenderal sudirman semarang_Kamis-20.05.png
-90;jalan jenderal sudirman semarang;Kamis;20.15;data/traffic_jalan jenderal sudirman semarang_Kamis-20.15.png
-91;jalan jenderal sudirman semarang;Kamis;20.25;data/traffic_jalan jenderal sudirman semarang_Kamis-20.25.png
-92;jalan jenderal sudirman semarang;Kamis;20.35;data/traffic_jalan jenderal sudirman semarang_Kamis-20.35.png
-93;jalan jenderal sudirman semarang;Kamis;20.45;data/traffic_jalan jenderal sudirman semarang_Kamis-20.45.png
-94;jalan jenderal sudirman semarang;Kamis;20.55;data/traffic_jalan jenderal sudirman semarang_Kamis-20.55.png
-95;jalan jenderal sudirman semarang;Kamis;21.05;data/traffic_jalan jenderal sudirman semarang_Kamis-21.05.png
-96;jalan jenderal sudirman semarang;Kamis;21.15;data/traffic_jalan jenderal sudirman semarang_Kamis-21.15.png
-97;jalan jenderal sudirman semarang;Kamis;21.25;data/traffic_jalan jenderal sudirman semarang_Kamis-21.25.png
-98;jalan jenderal sudirman semarang;Kamis;21.35;data/traffic_jalan jenderal sudirman semarang_Kamis-21.35.png
-99;jalan jenderal sudirman semarang;Kamis;21.45;data/traffic_jalan jenderal sudirman semarang_Kamis-21.45.png
-100;jalan jenderal sudirman semarang;Kamis;21.55;data/traffic_jalan jenderal sudirman semarang_Kamis-21.55.png
-101;jalan jenderal sudirman semarang;Kamis;22.00;data/traffic_jalan jenderal sudirman semarang_Kamis-22.00.png
-1;jalan jenderal sudirman semarang;Jumat;06.00;data/traffic_jalan jenderal sudirman semarang_Jumat-06.00.png
-2;jalan jenderal sudirman semarang;Jumat;06.10;data/traffic_jalan jenderal sudirman semarang_Jumat-06.10.png
-3;jalan jenderal sudirman semarang;Jumat;06.20;data/traffic_jalan jenderal sudirman semarang_Jumat-06.20.png
-4;jalan jenderal sudirman semarang;Jumat;06.30;data/traffic_jalan jenderal sudirman semarang_Jumat-06.30.png
-5;jalan jenderal sudirman semarang;Jumat;06.40;data/traffic_jalan jenderal sudirman semarang_Jumat-06.40.png
-6;jalan jenderal sudirman semarang;Jumat;06.50;data/traffic_jalan jenderal sudirman semarang_Jumat-06.50.png
-7;jalan jenderal sudirman semarang;Jumat;07.00;data/traffic_jalan jenderal sudirman semarang_Jumat-07.00.png
-8;jalan jenderal sudirman semarang;Jumat;07.10;data/traffic_jalan jenderal sudirman semarang_Jumat-07.10.png
-9;jalan jenderal sudirman semarang;Jumat;07.20;data/traffic_jalan jenderal sudirman semarang_Jumat-07.20.png
-10;jalan jenderal sudirman semarang;Jumat;07.30;data/traffic_jalan jenderal sudirman semarang_Jumat-07.30.png
-11;jalan jenderal sudirman semarang;Jumat;07.40;data/traffic_jalan jenderal sudirman semarang_Jumat-07.40.png
-12;jalan jenderal sudirman semarang;Jumat;07.50;data/traffic_jalan jenderal sudirman semarang_Jumat-07.50.png
-13;jalan jenderal sudirman semarang;Jumat;08.00;data/traffic_jalan jenderal sudirman semarang_Jumat-08.00.png
-14;jalan jenderal sudirman semarang;Jumat;08.05;data/traffic_jalan jenderal sudirman semarang_Jumat-08.05.png
-15;jalan jenderal sudirman semarang;Jumat;08.15;data/traffic_jalan jenderal sudirman semarang_Jumat-08.15.png
-16;jalan jenderal sudirman semarang;Jumat;08.25;data/traffic_jalan jenderal sudirman semarang_Jumat-08.25.png
-17;jalan jenderal sudirman semarang;Jumat;08.35;data/traffic_jalan jenderal sudirman semarang_Jumat-08.35.png
-18;jalan jenderal sudirman semarang;Jumat;08.45;data/traffic_jalan jenderal sudirman semarang_Jumat-08.45.png
-19;jalan jenderal sudirman semarang;Jumat;08.55;data/traffic_jalan jenderal sudirman semarang_Jumat-08.55.png
-20;jalan jenderal sudirman semarang;Jumat;09.05;data/traffic_jalan jenderal sudirman semarang_Jumat-09.05.png
-21;jalan jenderal sudirman semarang;Jumat;09.15;data/traffic_jalan jenderal sudirman semarang_Jumat-09.15.png
-22;jalan jenderal sudirman semarang;Jumat;09.25;data/traffic_jalan jenderal sudirman semarang_Jumat-09.25.png
-23;jalan jenderal sudirman semarang;Jumat;09.35;data/traffic_jalan jenderal sudirman semarang_Jumat-09.35.png
-24;jalan jenderal sudirman semarang;Jumat;09.45;data/traffic_jalan jenderal sudirman semarang_Jumat-09.45.png
-25;jalan jenderal sudirman semarang;Jumat;09.55;data/traffic_jalan jenderal sudirman semarang_Jumat-09.55.png
-26;jalan jenderal sudirman semarang;Jumat;10.00;data/traffic_jalan jenderal sudirman semarang_Jumat-10.00.png
-27;jalan jenderal sudirman semarang;Jumat;10.10;data/traffic_jalan jenderal sudirman semarang_Jumat-10.10.png
-28;jalan jenderal sudirman semarang;Jumat;10.20;data/traffic_jalan jenderal sudirman semarang_Jumat-10.20.png
-29;jalan jenderal sudirman semarang;Jumat;10.30;data/traffic_jalan jenderal sudirman semarang_Jumat-10.30.png
-30;jalan jenderal sudirman semarang;Jumat;10.40;data/traffic_jalan jenderal sudirman semarang_Jumat-10.40.png
-31;jalan jenderal sudirman semarang;Jumat;10.50;data/traffic_jalan jenderal sudirman semarang_Jumat-10.50.png
-32;jalan jenderal sudirman semarang;Jumat;11.00;data/traffic_jalan jenderal sudirman semarang_Jumat-11.00.png
-33;jalan jenderal sudirman semarang;Jumat;11.10;data/traffic_jalan jenderal sudirman semarang_Jumat-11.10.png
-34;jalan jenderal sudirman semarang;Jumat;11.20;data/traffic_jalan jenderal sudirman semarang_Jumat-11.20.png
-35;jalan jenderal sudirman semarang;Jumat;11.30;data/traffic_jalan jenderal sudirman semarang_Jumat-11.30.png
-36;jalan jenderal sudirman semarang;Jumat;11.40;data/traffic_jalan jenderal sudirman semarang_Jumat-11.40.png
-37;jalan jenderal sudirman semarang;Jumat;11.50;data/traffic_jalan jenderal sudirman semarang_Jumat-11.50.png
-38;jalan jenderal sudirman semarang;Jumat;12.00;data/traffic_jalan jenderal sudirman semarang_Jumat-12.00.png
-39;jalan jenderal sudirman semarang;Jumat;12.05;data/traffic_jalan jenderal sudirman semarang_Jumat-12.05.png
-40;jalan jenderal sudirman semarang;Jumat;12.15;data/traffic_jalan jenderal sudirman semarang_Jumat-12.15.png
-41;jalan jenderal sudirman semarang;Jumat;12.25;data/traffic_jalan jenderal sudirman semarang_Jumat-12.25.png
-42;jalan jenderal sudirman semarang;Jumat;12.35;data/traffic_jalan jenderal sudirman semarang_Jumat-12.35.png
-43;jalan jenderal sudirman semarang;Jumat;12.45;data/traffic_jalan jenderal sudirman semarang_Jumat-12.45.png
-44;jalan jenderal sudirman semarang;Jumat;12.55;data/traffic_jalan jenderal sudirman semarang_Jumat-12.55.png
-45;jalan jenderal sudirman semarang;Jumat;13.05;data/traffic_jalan jenderal sudirman semarang_Jumat-13.05.png
-46;jalan jenderal sudirman semarang;Jumat;13.15;data/traffic_jalan jenderal sudirman semarang_Jumat-13.15.png
-47;jalan jenderal sudirman semarang;Jumat;13.25;data/traffic_jalan jenderal sudirman semarang_Jumat-13.25.png
-48;jalan jenderal sudirman semarang;Jumat;13.35;data/traffic_jalan jenderal sudirman semarang_Jumat-13.35.png
-49;jalan jenderal sudirman semarang;Jumat;13.45;data/traffic_jalan jenderal sudirman semarang_Jumat-13.45.png
-50;jalan jenderal sudirman semarang;Jumat;13.55;data/traffic_jalan jenderal sudirman semarang_Jumat-13.55.png
-51;jalan jenderal sudirman semarang;Jumat;14.00;data/traffic_jalan jenderal sudirman semarang_Jumat-14.00.png
-52;jalan jenderal sudirman semarang;Jumat;14.10;data/traffic_jalan jenderal sudirman semarang_Jumat-14.10.png
-53;jalan jenderal sudirman semarang;Jumat;14.20;data/traffic_jalan jenderal sudirman semarang_Jumat-14.20.png
-54;jalan jenderal sudirman semarang;Jumat;14.30;data/traffic_jalan jenderal sudirman semarang_Jumat-14.30.png
-55;jalan jenderal sudirman semarang;Jumat;14.40;data/traffic_jalan jenderal sudirman semarang_Jumat-14.40.png
-56;jalan jenderal sudirman semarang;Jumat;14.50;data/traffic_jalan jenderal sudirman semarang_Jumat-14.50.png
-57;jalan jenderal sudirman semarang;Jumat;15.00;data/traffic_jalan jenderal sudirman semarang_Jumat-15.00.png
-58;jalan jenderal sudirman semarang;Jumat;15.10;data/traffic_jalan jenderal sudirman semarang_Jumat-15.10.png
-59;jalan jenderal sudirman semarang;Jumat;15.20;data/traffic_jalan jenderal sudirman semarang_Jumat-15.20.png
-60;jalan jenderal sudirman semarang;Jumat;15.30;data/traffic_jalan jenderal sudirman semarang_Jumat-15.30.png
-61;jalan jenderal sudirman semarang;Jumat;15.40;data/traffic_jalan jenderal sudirman semarang_Jumat-15.40.png
-62;jalan jenderal sudirman semarang;Jumat;15.50;data/traffic_jalan jenderal sudirman semarang_Jumat-15.50.png
-63;jalan jenderal sudirman semarang;Jumat;16.00;data/traffic_jalan jenderal sudirman semarang_Jumat-16.00.png
-64;jalan jenderal sudirman semarang;Jumat;16.05;data/traffic_jalan jenderal sudirman semarang_Jumat-16.05.png
-65;jalan jenderal sudirman semarang;Jumat;16.15;data/traffic_jalan jenderal sudirman semarang_Jumat-16.15.png
-66;jalan jenderal sudirman semarang;Jumat;16.25;data/traffic_jalan jenderal sudirman semarang_Jumat-16.25.png
-67;jalan jenderal sudirman semarang;Jumat;16.35;data/traffic_jalan jenderal sudirman semarang_Jumat-16.35.png
-68;jalan jenderal sudirman semarang;Jumat;16.45;data/traffic_jalan jenderal sudirman semarang_Jumat-16.45.png
-69;jalan jenderal sudirman semarang;Jumat;16.55;data/traffic_jalan jenderal sudirman semarang_Jumat-16.55.png
-70;jalan jenderal sudirman semarang;Jumat;17.05;data/traffic_jalan jenderal sudirman semarang_Jumat-17.05.png
-71;jalan jenderal sudirman semarang;Jumat;17.15;data/traffic_jalan jenderal sudirman semarang_Jumat-17.15.png
-72;jalan jenderal sudirman semarang;Jumat;17.25;data/traffic_jalan jenderal sudirman semarang_Jumat-17.25.png
-73;jalan jenderal sudirman semarang;Jumat;17.35;data/traffic_jalan jenderal sudirman semarang_Jumat-17.35.png
-74;jalan jenderal sudirman semarang;Jumat;17.45;data/traffic_jalan jenderal sudirman semarang_Jumat-17.45.png
-75;jalan jenderal sudirman semarang;Jumat;17.55;data/traffic_jalan jenderal sudirman semarang_Jumat-17.55.png
-76;jalan jenderal sudirman semarang;Jumat;18.00;data/traffic_jalan jenderal sudirman semarang_Jumat-18.00.png
-77;jalan jenderal sudirman semarang;Jumat;18.10;data/traffic_jalan jenderal sudirman semarang_Jumat-18.10.png
-78;jalan jenderal sudirman semarang;Jumat;18.20;data/traffic_jalan jenderal sudirman semarang_Jumat-18.20.png
-79;jalan jenderal sudirman semarang;Jumat;18.30;data/traffic_jalan jenderal sudirman semarang_Jumat-18.30.png
-80;jalan jenderal sudirman semarang;Jumat;18.40;data/traffic_jalan jenderal sudirman semarang_Jumat-18.40.png
-81;jalan jenderal sudirman semarang;Jumat;18.50;data/traffic_jalan jenderal sudirman semarang_Jumat-18.50.png
-82;jalan jenderal sudirman semarang;Jumat;19.00;data/traffic_jalan jenderal sudirman semarang_Jumat-19.00.png
-83;jalan jenderal sudirman semarang;Jumat;19.10;data/traffic_jalan jenderal sudirman semarang_Jumat-19.10.png
-84;jalan jenderal sudirman semarang;Jumat;19.20;data/traffic_jalan jenderal sudirman semarang_Jumat-19.20.png
-85;jalan jenderal sudirman semarang;Jumat;19.30;data/traffic_jalan jenderal sudirman semarang_Jumat-19.30.png
-86;jalan jenderal sudirman semarang;Jumat;19.40;data/traffic_jalan jenderal sudirman semarang_Jumat-19.40.png
-87;jalan jenderal sudirman semarang;Jumat;19.50;data/traffic_jalan jenderal sudirman semarang_Jumat-19.50.png
-88;jalan jenderal sudirman semarang;Jumat;20.00;data/traffic_jalan jenderal sudirman semarang_Jumat-20.00.png
-89;jalan jenderal sudirman semarang;Jumat;20.05;data/traffic_jalan jenderal sudirman semarang_Jumat-20.05.png
-90;jalan jenderal sudirman semarang;Jumat;20.15;data/traffic_jalan jenderal sudirman semarang_Jumat-20.15.png
-91;jalan jenderal sudirman semarang;Jumat;20.25;data/traffic_jalan jenderal sudirman semarang_Jumat-20.25.png
-92;jalan jenderal sudirman semarang;Jumat;20.35;data/traffic_jalan jenderal sudirman semarang_Jumat-20.35.png
-93;jalan jenderal sudirman semarang;Jumat;20.45;data/traffic_jalan jenderal sudirman semarang_Jumat-20.45.png
-94;jalan jenderal sudirman semarang;Jumat;20.55;data/traffic_jalan jenderal sudirman semarang_Jumat-20.55.png
-95;jalan jenderal sudirman semarang;Jumat;21.05;data/traffic_jalan jenderal sudirman semarang_Jumat-21.05.png
-96;jalan jenderal sudirman semarang;Jumat;21.15;data/traffic_jalan jenderal sudirman semarang_Jumat-21.15.png
-97;jalan jenderal sudirman semarang;Jumat;21.25;data/traffic_jalan jenderal sudirman semarang_Jumat-21.25.png
-98;jalan jenderal sudirman semarang;Jumat;21.35;data/traffic_jalan jenderal sudirman semarang_Jumat-21.35.png
-99;jalan jenderal sudirman semarang;Jumat;21.45;data/traffic_jalan jenderal sudirman semarang_Jumat-21.45.png
-100;jalan jenderal sudirman semarang;Jumat;21.55;data/traffic_jalan jenderal sudirman semarang_Jumat-21.55.png
-101;jalan jenderal sudirman semarang;Jumat;22.00;data/traffic_jalan jenderal sudirman semarang_Jumat-22.00.png
-1;jalan jenderal sudirman semarang;Sabtu;06.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-06.00.png
-2;jalan jenderal sudirman semarang;Sabtu;06.10;data/traffic_jalan jenderal sudirman semarang_Sabtu-06.10.png
-3;jalan jenderal sudirman semarang;Sabtu;06.20;data/traffic_jalan jenderal sudirman semarang_Sabtu-06.20.png
-4;jalan jenderal sudirman semarang;Sabtu;06.30;data/traffic_jalan jenderal sudirman semarang_Sabtu-06.30.png
-5;jalan jenderal sudirman semarang;Sabtu;06.40;data/traffic_jalan jenderal sudirman semarang_Sabtu-06.40.png
-6;jalan jenderal sudirman semarang;Sabtu;06.50;data/traffic_jalan jenderal sudirman semarang_Sabtu-06.50.png
-7;jalan jenderal sudirman semarang;Sabtu;07.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-07.00.png
-8;jalan jenderal sudirman semarang;Sabtu;07.10;data/traffic_jalan jenderal sudirman semarang_Sabtu-07.10.png
-9;jalan jenderal sudirman semarang;Sabtu;07.20;data/traffic_jalan jenderal sudirman semarang_Sabtu-07.20.png
-10;jalan jenderal sudirman semarang;Sabtu;07.30;data/traffic_jalan jenderal sudirman semarang_Sabtu-07.30.png
-11;jalan jenderal sudirman semarang;Sabtu;07.40;data/traffic_jalan jenderal sudirman semarang_Sabtu-07.40.png
-12;jalan jenderal sudirman semarang;Sabtu;07.50;data/traffic_jalan jenderal sudirman semarang_Sabtu-07.50.png
-13;jalan jenderal sudirman semarang;Sabtu;08.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-08.00.png
-14;jalan jenderal sudirman semarang;Sabtu;08.05;data/traffic_jalan jenderal sudirman semarang_Sabtu-08.05.png
-15;jalan jenderal sudirman semarang;Sabtu;08.15;data/traffic_jalan jenderal sudirman semarang_Sabtu-08.15.png
-16;jalan jenderal sudirman semarang;Sabtu;08.25;data/traffic_jalan jenderal sudirman semarang_Sabtu-08.25.png
-17;jalan jenderal sudirman semarang;Sabtu;08.35;data/traffic_jalan jenderal sudirman semarang_Sabtu-08.35.png
-18;jalan jenderal sudirman semarang;Sabtu;08.45;data/traffic_jalan jenderal sudirman semarang_Sabtu-08.45.png
-19;jalan jenderal sudirman semarang;Sabtu;08.55;data/traffic_jalan jenderal sudirman semarang_Sabtu-08.55.png
-20;jalan jenderal sudirman semarang;Sabtu;09.05;data/traffic_jalan jenderal sudirman semarang_Sabtu-09.05.png
-21;jalan jenderal sudirman semarang;Sabtu;09.15;data/traffic_jalan jenderal sudirman semarang_Sabtu-09.15.png
-22;jalan jenderal sudirman semarang;Sabtu;09.25;data/traffic_jalan jenderal sudirman semarang_Sabtu-09.25.png
-23;jalan jenderal sudirman semarang;Sabtu;09.35;data/traffic_jalan jenderal sudirman semarang_Sabtu-09.35.png
-24;jalan jenderal sudirman semarang;Sabtu;09.45;data/traffic_jalan jenderal sudirman semarang_Sabtu-09.45.png
-25;jalan jenderal sudirman semarang;Sabtu;09.55;data/traffic_jalan jenderal sudirman semarang_Sabtu-09.55.png
-26;jalan jenderal sudirman semarang;Sabtu;10.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-10.00.png
-27;jalan jenderal sudirman semarang;Sabtu;10.10;data/traffic_jalan jenderal sudirman semarang_Sabtu-10.10.png
-28;jalan jenderal sudirman semarang;Sabtu;10.20;data/traffic_jalan jenderal sudirman semarang_Sabtu-10.20.png
-29;jalan jenderal sudirman semarang;Sabtu;10.30;data/traffic_jalan jenderal sudirman semarang_Sabtu-10.30.png
-30;jalan jenderal sudirman semarang;Sabtu;10.40;data/traffic_jalan jenderal sudirman semarang_Sabtu-10.40.png
-31;jalan jenderal sudirman semarang;Sabtu;10.50;data/traffic_jalan jenderal sudirman semarang_Sabtu-10.50.png
-32;jalan jenderal sudirman semarang;Sabtu;11.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-11.00.png
-33;jalan jenderal sudirman semarang;Sabtu;11.10;data/traffic_jalan jenderal sudirman semarang_Sabtu-11.10.png
-34;jalan jenderal sudirman semarang;Sabtu;11.20;data/traffic_jalan jenderal sudirman semarang_Sabtu-11.20.png
-35;jalan jenderal sudirman semarang;Sabtu;11.30;data/traffic_jalan jenderal sudirman semarang_Sabtu-11.30.png
-36;jalan jenderal sudirman semarang;Sabtu;11.40;data/traffic_jalan jenderal sudirman semarang_Sabtu-11.40.png
-37;jalan jenderal sudirman semarang;Sabtu;11.50;data/traffic_jalan jenderal sudirman semarang_Sabtu-11.50.png
-38;jalan jenderal sudirman semarang;Sabtu;12.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-12.00.png
-39;jalan jenderal sudirman semarang;Sabtu;12.05;data/traffic_jalan jenderal sudirman semarang_Sabtu-12.05.png
-40;jalan jenderal sudirman semarang;Sabtu;12.15;data/traffic_jalan jenderal sudirman semarang_Sabtu-12.15.png
-41;jalan jenderal sudirman semarang;Sabtu;12.25;data/traffic_jalan jenderal sudirman semarang_Sabtu-12.25.png
-42;jalan jenderal sudirman semarang;Sabtu;12.35;data/traffic_jalan jenderal sudirman semarang_Sabtu-12.35.png
-43;jalan jenderal sudirman semarang;Sabtu;12.45;data/traffic_jalan jenderal sudirman semarang_Sabtu-12.45.png
-44;jalan jenderal sudirman semarang;Sabtu;12.55;data/traffic_jalan jenderal sudirman semarang_Sabtu-12.55.png
-45;jalan jenderal sudirman semarang;Sabtu;13.05;data/traffic_jalan jenderal sudirman semarang_Sabtu-13.05.png
-46;jalan jenderal sudirman semarang;Sabtu;13.15;data/traffic_jalan jenderal sudirman semarang_Sabtu-13.15.png
-47;jalan jenderal sudirman semarang;Sabtu;13.25;data/traffic_jalan jenderal sudirman semarang_Sabtu-13.25.png
-48;jalan jenderal sudirman semarang;Sabtu;13.35;data/traffic_jalan jenderal sudirman semarang_Sabtu-13.35.png
-49;jalan jenderal sudirman semarang;Sabtu;13.45;data/traffic_jalan jenderal sudirman semarang_Sabtu-13.45.png
-50;jalan jenderal sudirman semarang;Sabtu;13.55;data/traffic_jalan jenderal sudirman semarang_Sabtu-13.55.png
-51;jalan jenderal sudirman semarang;Sabtu;14.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-14.00.png
-52;jalan jenderal sudirman semarang;Sabtu;14.10;data/traffic_jalan jenderal sudirman semarang_Sabtu-14.10.png
-53;jalan jenderal sudirman semarang;Sabtu;14.20;data/traffic_jalan jenderal sudirman semarang_Sabtu-14.20.png
-54;jalan jenderal sudirman semarang;Sabtu;14.30;data/traffic_jalan jenderal sudirman semarang_Sabtu-14.30.png
-55;jalan jenderal sudirman semarang;Sabtu;14.40;data/traffic_jalan jenderal sudirman semarang_Sabtu-14.40.png
-56;jalan jenderal sudirman semarang;Sabtu;14.50;data/traffic_jalan jenderal sudirman semarang_Sabtu-14.50.png
-57;jalan jenderal sudirman semarang;Sabtu;15.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-15.00.png
-58;jalan jenderal sudirman semarang;Sabtu;15.10;data/traffic_jalan jenderal sudirman semarang_Sabtu-15.10.png
-59;jalan jenderal sudirman semarang;Sabtu;15.20;data/traffic_jalan jenderal sudirman semarang_Sabtu-15.20.png
-60;jalan jenderal sudirman semarang;Sabtu;15.30;data/traffic_jalan jenderal sudirman semarang_Sabtu-15.30.png
-61;jalan jenderal sudirman semarang;Sabtu;15.40;data/traffic_jalan jenderal sudirman semarang_Sabtu-15.40.png
-62;jalan jenderal sudirman semarang;Sabtu;15.50;data/traffic_jalan jenderal sudirman semarang_Sabtu-15.50.png
-63;jalan jenderal sudirman semarang;Sabtu;16.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-16.00.png
-64;jalan jenderal sudirman semarang;Sabtu;16.05;data/traffic_jalan jenderal sudirman semarang_Sabtu-16.05.png
-65;jalan jenderal sudirman semarang;Sabtu;16.15;data/traffic_jalan jenderal sudirman semarang_Sabtu-16.15.png
-66;jalan jenderal sudirman semarang;Sabtu;16.25;data/traffic_jalan jenderal sudirman semarang_Sabtu-16.25.png
-67;jalan jenderal sudirman semarang;Sabtu;16.35;data/traffic_jalan jenderal sudirman semarang_Sabtu-16.35.png
-68;jalan jenderal sudirman semarang;Sabtu;16.45;data/traffic_jalan jenderal sudirman semarang_Sabtu-16.45.png
-69;jalan jenderal sudirman semarang;Sabtu;16.55;data/traffic_jalan jenderal sudirman semarang_Sabtu-16.55.png
-70;jalan jenderal sudirman semarang;Sabtu;17.05;data/traffic_jalan jenderal sudirman semarang_Sabtu-17.05.png
-71;jalan jenderal sudirman semarang;Sabtu;17.15;data/traffic_jalan jenderal sudirman semarang_Sabtu-17.15.png
-72;jalan jenderal sudirman semarang;Sabtu;17.25;data/traffic_jalan jenderal sudirman semarang_Sabtu-17.25.png
-73;jalan jenderal sudirman semarang;Sabtu;17.35;data/traffic_jalan jenderal sudirman semarang_Sabtu-17.35.png
-74;jalan jenderal sudirman semarang;Sabtu;17.45;data/traffic_jalan jenderal sudirman semarang_Sabtu-17.45.png
-75;jalan jenderal sudirman semarang;Sabtu;17.55;data/traffic_jalan jenderal sudirman semarang_Sabtu-17.55.png
-76;jalan jenderal sudirman semarang;Sabtu;18.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-18.00.png
-77;jalan jenderal sudirman semarang;Sabtu;18.10;data/traffic_jalan jenderal sudirman semarang_Sabtu-18.10.png
-78;jalan jenderal sudirman semarang;Sabtu;18.20;data/traffic_jalan jenderal sudirman semarang_Sabtu-18.20.png
-79;jalan jenderal sudirman semarang;Sabtu;18.30;data/traffic_jalan jenderal sudirman semarang_Sabtu-18.30.png
-80;jalan jenderal sudirman semarang;Sabtu;18.40;data/traffic_jalan jenderal sudirman semarang_Sabtu-18.40.png
-81;jalan jenderal sudirman semarang;Sabtu;18.50;data/traffic_jalan jenderal sudirman semarang_Sabtu-18.50.png
-82;jalan jenderal sudirman semarang;Sabtu;19.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-19.00.png
-83;jalan jenderal sudirman semarang;Sabtu;19.10;data/traffic_jalan jenderal sudirman semarang_Sabtu-19.10.png
-84;jalan jenderal sudirman semarang;Sabtu;19.20;data/traffic_jalan jenderal sudirman semarang_Sabtu-19.20.png
-85;jalan jenderal sudirman semarang;Sabtu;19.30;data/traffic_jalan jenderal sudirman semarang_Sabtu-19.30.png
-86;jalan jenderal sudirman semarang;Sabtu;19.40;data/traffic_jalan jenderal sudirman semarang_Sabtu-19.40.png
-87;jalan jenderal sudirman semarang;Sabtu;19.50;data/traffic_jalan jenderal sudirman semarang_Sabtu-19.50.png
-88;jalan jenderal sudirman semarang;Sabtu;20.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-20.00.png
-89;jalan jenderal sudirman semarang;Sabtu;20.05;data/traffic_jalan jenderal sudirman semarang_Sabtu-20.05.png
-90;jalan jenderal sudirman semarang;Sabtu;20.15;data/traffic_jalan jenderal sudirman semarang_Sabtu-20.15.png
-91;jalan jenderal sudirman semarang;Sabtu;20.25;data/traffic_jalan jenderal sudirman semarang_Sabtu-20.25.png
-92;jalan jenderal sudirman semarang;Sabtu;20.35;data/traffic_jalan jenderal sudirman semarang_Sabtu-20.35.png
-93;jalan jenderal sudirman semarang;Sabtu;20.45;data/traffic_jalan jenderal sudirman semarang_Sabtu-20.45.png
-94;jalan jenderal sudirman semarang;Sabtu;20.55;data/traffic_jalan jenderal sudirman semarang_Sabtu-20.55.png
-95;jalan jenderal sudirman semarang;Sabtu;21.05;data/traffic_jalan jenderal sudirman semarang_Sabtu-21.05.png
-96;jalan jenderal sudirman semarang;Sabtu;21.15;data/traffic_jalan jenderal sudirman semarang_Sabtu-21.15.png
-97;jalan jenderal sudirman semarang;Sabtu;21.25;data/traffic_jalan jenderal sudirman semarang_Sabtu-21.25.png
-98;jalan jenderal sudirman semarang;Sabtu;21.35;data/traffic_jalan jenderal sudirman semarang_Sabtu-21.35.png
-99;jalan jenderal sudirman semarang;Sabtu;21.45;data/traffic_jalan jenderal sudirman semarang_Sabtu-21.45.png
-100;jalan jenderal sudirman semarang;Sabtu;21.55;data/traffic_jalan jenderal sudirman semarang_Sabtu-21.55.png
-101;jalan jenderal sudirman semarang;Sabtu;22.00;data/traffic_jalan jenderal sudirman semarang_Sabtu-22.00.png
+no.;lokasi;hari;jam;lalu lintas;skor cepat;skor padat;skor lambat;skor sangat lambat;file
+1;tugu muda semarang;Minggu;06.00;lancar;3551.5;312.2;0.0;0.0;data/traffic_tugu muda semarang_Minggu-06.00.png
+2;tugu muda semarang;Minggu;06.10;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Minggu-06.10.png
+3;tugu muda semarang;Minggu;06.20;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Minggu-06.20.png
+4;tugu muda semarang;Minggu;06.30;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Minggu-06.30.png
+5;tugu muda semarang;Minggu;06.40;lancar;3585.3;236.8;0.0;0.0;data/traffic_tugu muda semarang_Minggu-06.40.png
+6;tugu muda semarang;Minggu;06.50;lancar;3585.3;236.8;0.0;0.0;data/traffic_tugu muda semarang_Minggu-06.50.png
+7;tugu muda semarang;Minggu;07.00;lancar;3655.1;166.9;0.0;0.0;data/traffic_tugu muda semarang_Minggu-07.00.png
+8;tugu muda semarang;Minggu;07.10;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-07.10.png
+9;tugu muda semarang;Minggu;07.20;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-07.20.png
+10;tugu muda semarang;Minggu;07.30;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-07.30.png
+11;tugu muda semarang;Minggu;07.40;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-07.40.png
+12;tugu muda semarang;Minggu;07.50;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-07.50.png
+13;tugu muda semarang;Minggu;08.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-08.00.png
+14;tugu muda semarang;Minggu;08.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-08.05.png
+15;tugu muda semarang;Minggu;08.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-08.15.png
+16;tugu muda semarang;Minggu;08.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-08.25.png
+17;tugu muda semarang;Minggu;08.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-08.35.png
+18;tugu muda semarang;Minggu;08.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-08.45.png
+19;tugu muda semarang;Minggu;08.55;lancar;3523.9;347.1;0.0;0.0;data/traffic_tugu muda semarang_Minggu-08.55.png
+20;tugu muda semarang;Minggu;09.05;lancar;3523.9;347.1;0.0;0.0;data/traffic_tugu muda semarang_Minggu-09.05.png
+21;tugu muda semarang;Minggu;09.15;lancar;3507.7;363.2;0.0;0.0;data/traffic_tugu muda semarang_Minggu-09.15.png
+22;tugu muda semarang;Minggu;09.25;lancar;3507.7;363.2;0.0;0.0;data/traffic_tugu muda semarang_Minggu-09.25.png
+23;tugu muda semarang;Minggu;09.35;lancar;3507.7;363.2;0.0;0.0;data/traffic_tugu muda semarang_Minggu-09.35.png
+24;tugu muda semarang;Minggu;09.45;lancar;3523.9;347.1;0.0;0.0;data/traffic_tugu muda semarang_Minggu-09.45.png
+25;tugu muda semarang;Minggu;09.55;lancar;3356.6;515.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-09.55.png
+26;tugu muda semarang;Minggu;10.00;lancar;3356.6;515.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-10.00.png
+27;tugu muda semarang;Minggu;10.10;lancar;3173.5;703.6;0.0;0.0;data/traffic_tugu muda semarang_Minggu-10.10.png
+28;tugu muda semarang;Minggu;10.20;lancar;3173.5;703.6;0.0;0.0;data/traffic_tugu muda semarang_Minggu-10.20.png
+29;tugu muda semarang;Minggu;10.30;lancar;3173.5;703.6;0.0;0.0;data/traffic_tugu muda semarang_Minggu-10.30.png
+30;tugu muda semarang;Minggu;10.40;lancar;3162.9;712.4;0.0;0.0;data/traffic_tugu muda semarang_Minggu-10.40.png
+31;tugu muda semarang;Minggu;10.50;lancar;3162.9;712.4;0.0;0.0;data/traffic_tugu muda semarang_Minggu-10.50.png
+32;tugu muda semarang;Minggu;11.00;lancar;3162.9;712.4;0.0;0.0;data/traffic_tugu muda semarang_Minggu-11.00.png
+33;tugu muda semarang;Minggu;11.10;lancar;3143.1;721.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-11.10.png
+34;tugu muda semarang;Minggu;11.20;lancar;3143.1;721.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-11.20.png
+35;tugu muda semarang;Minggu;11.30;lancar;3162.9;703.6;6.6;0.0;data/traffic_tugu muda semarang_Minggu-11.30.png
+36;tugu muda semarang;Minggu;11.40;lancar;3162.9;712.4;0.0;0.0;data/traffic_tugu muda semarang_Minggu-11.40.png
+37;tugu muda semarang;Minggu;11.50;lancar;3162.9;712.4;0.0;0.0;data/traffic_tugu muda semarang_Minggu-11.50.png
+38;tugu muda semarang;Minggu;12.00;lancar;3108.8;767.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-12.00.png
+39;tugu muda semarang;Minggu;12.05;lancar;3108.8;767.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-12.05.png
+40;tugu muda semarang;Minggu;12.15;lancar;3108.8;767.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-12.15.png
+41;tugu muda semarang;Minggu;12.25;lancar;3108.8;767.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-12.25.png
+42;tugu muda semarang;Minggu;12.35;lancar;3108.8;767.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-12.35.png
+43;tugu muda semarang;Minggu;12.45;lancar;3108.8;767.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-12.45.png
+44;tugu muda semarang;Minggu;12.55;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-12.55.png
+45;tugu muda semarang;Minggu;13.05;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-13.05.png
+46;tugu muda semarang;Minggu;13.15;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-13.15.png
+47;tugu muda semarang;Minggu;13.25;lancar;2854.2;1014.7;6.6;0.0;data/traffic_tugu muda semarang_Minggu-13.25.png
+48;tugu muda semarang;Minggu;13.35;lancar;2854.2;1014.7;6.6;0.0;data/traffic_tugu muda semarang_Minggu-13.35.png
+49;tugu muda semarang;Minggu;13.45;lancar;2854.2;1014.7;6.6;0.0;data/traffic_tugu muda semarang_Minggu-13.45.png
+50;tugu muda semarang;Minggu;13.55;lancar;2800.8;1071.7;6.6;0.0;data/traffic_tugu muda semarang_Minggu-13.55.png
+51;tugu muda semarang;Minggu;14.00;lancar;2800.8;1071.7;6.6;0.0;data/traffic_tugu muda semarang_Minggu-14.00.png
+52;tugu muda semarang;Minggu;14.10;lancar;2820.4;1048.2;6.6;0.0;data/traffic_tugu muda semarang_Minggu-14.10.png
+53;tugu muda semarang;Minggu;14.20;lancar;2820.4;1048.2;6.6;0.0;data/traffic_tugu muda semarang_Minggu-14.20.png
+54;tugu muda semarang;Minggu;14.30;lancar;2854.2;1014.7;6.6;0.0;data/traffic_tugu muda semarang_Minggu-14.30.png
+55;tugu muda semarang;Minggu;14.40;lancar;2854.2;1014.7;6.6;0.0;data/traffic_tugu muda semarang_Minggu-14.40.png
+56;tugu muda semarang;Minggu;14.50;lancar;2854.2;1014.7;6.6;0.0;data/traffic_tugu muda semarang_Minggu-14.50.png
+57;tugu muda semarang;Minggu;15.00;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-15.00.png
+58;tugu muda semarang;Minggu;15.10;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-15.10.png
+59;tugu muda semarang;Minggu;15.20;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-15.20.png
+60;tugu muda semarang;Minggu;15.30;lancar;2943.8;926.6;6.6;0.0;data/traffic_tugu muda semarang_Minggu-15.30.png
+61;tugu muda semarang;Minggu;15.40;lancar;2970.4;906.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-15.40.png
+62;tugu muda semarang;Minggu;15.50;lancar;2970.4;906.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-15.50.png
+63;tugu muda semarang;Minggu;16.00;lancar;3144.9;720.0;6.6;0.0;data/traffic_tugu muda semarang_Minggu-16.00.png
+64;tugu muda semarang;Minggu;16.05;lancar;3144.9;720.0;6.6;0.0;data/traffic_tugu muda semarang_Minggu-16.05.png
+65;tugu muda semarang;Minggu;16.15;lancar;2978.1;890.2;6.6;0.0;data/traffic_tugu muda semarang_Minggu-16.15.png
+66;tugu muda semarang;Minggu;16.25;lancar;3071.0;792.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-16.25.png
+67;tugu muda semarang;Minggu;16.35;lancar;3071.0;792.8;6.6;0.0;data/traffic_tugu muda semarang_Minggu-16.35.png
+68;tugu muda semarang;Minggu;16.45;lancar;3306.3;553.7;6.6;0.0;data/traffic_tugu muda semarang_Minggu-16.45.png
+69;tugu muda semarang;Minggu;16.55;lancar;3141.3;722.1;6.6;0.0;data/traffic_tugu muda semarang_Minggu-16.55.png
+70;tugu muda semarang;Minggu;17.05;lancar;3141.3;722.1;6.6;0.0;data/traffic_tugu muda semarang_Minggu-17.05.png
+71;tugu muda semarang;Minggu;17.15;lancar;3141.3;722.1;6.6;0.0;data/traffic_tugu muda semarang_Minggu-17.15.png
+72;tugu muda semarang;Minggu;17.25;lancar;3125.1;747.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-17.25.png
+73;tugu muda semarang;Minggu;17.35;lancar;3125.1;747.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-17.35.png
+74;tugu muda semarang;Minggu;17.45;lancar;2932.8;924.5;14.3;0.0;data/traffic_tugu muda semarang_Minggu-17.45.png
+75;tugu muda semarang;Minggu;17.55;lancar;3780.5;62.3;6.6;0.0;data/traffic_tugu muda semarang_Minggu-17.55.png
+76;tugu muda semarang;Minggu;18.00;lancar;3780.5;62.3;6.6;0.0;data/traffic_tugu muda semarang_Minggu-18.00.png
+77;tugu muda semarang;Minggu;18.10;lancar;3475.1;388.3;0.0;0.0;data/traffic_tugu muda semarang_Minggu-18.10.png
+78;tugu muda semarang;Minggu;18.20;lancar;3475.1;388.3;0.0;0.0;data/traffic_tugu muda semarang_Minggu-18.20.png
+79;tugu muda semarang;Minggu;18.30;lancar;3582.7;275.2;0.0;0.0;data/traffic_tugu muda semarang_Minggu-18.30.png
+80;tugu muda semarang;Minggu;18.40;lancar;3733.8;123.4;0.0;0.0;data/traffic_tugu muda semarang_Minggu-18.40.png
+81;tugu muda semarang;Minggu;18.50;lancar;3733.8;123.4;0.0;0.0;data/traffic_tugu muda semarang_Minggu-18.50.png
+82;tugu muda semarang;Minggu;19.00;lancar;3636.3;221.4;0.0;0.0;data/traffic_tugu muda semarang_Minggu-19.00.png
+83;tugu muda semarang;Minggu;19.10;lancar;3616.4;241.9;0.0;0.0;data/traffic_tugu muda semarang_Minggu-19.10.png
+84;tugu muda semarang;Minggu;19.20;lancar;3616.4;241.9;0.0;0.0;data/traffic_tugu muda semarang_Minggu-19.20.png
+85;tugu muda semarang;Minggu;19.30;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Minggu-19.30.png
+86;tugu muda semarang;Minggu;19.40;lancar;3494.8;365.9;0.0;0.0;data/traffic_tugu muda semarang_Minggu-19.40.png
+87;tugu muda semarang;Minggu;19.50;lancar;3494.8;365.9;0.0;0.0;data/traffic_tugu muda semarang_Minggu-19.50.png
+88;tugu muda semarang;Minggu;20.00;lancar;3478.6;382.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-20.00.png
+89;tugu muda semarang;Minggu;20.05;lancar;3478.6;382.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-20.05.png
+90;tugu muda semarang;Minggu;20.15;lancar;3652.5;205.3;0.0;0.0;data/traffic_tugu muda semarang_Minggu-20.15.png
+91;tugu muda semarang;Minggu;20.25;lancar;3616.4;241.9;0.0;0.0;data/traffic_tugu muda semarang_Minggu-20.25.png
+92;tugu muda semarang;Minggu;20.35;lancar;3616.4;241.9;0.0;0.0;data/traffic_tugu muda semarang_Minggu-20.35.png
+93;tugu muda semarang;Minggu;20.45;lancar;3616.4;241.9;0.0;0.0;data/traffic_tugu muda semarang_Minggu-20.45.png
+94;tugu muda semarang;Minggu;20.55;lancar;3670.5;187.3;0.0;0.0;data/traffic_tugu muda semarang_Minggu-20.55.png
+95;tugu muda semarang;Minggu;21.05;lancar;3670.5;187.3;0.0;0.0;data/traffic_tugu muda semarang_Minggu-21.05.png
+96;tugu muda semarang;Minggu;21.15;lancar;3451.4;410.3;0.0;0.0;data/traffic_tugu muda semarang_Minggu-21.15.png
+97;tugu muda semarang;Minggu;21.25;lancar;3551.9;308.1;0.0;0.0;data/traffic_tugu muda semarang_Minggu-21.25.png
+98;tugu muda semarang;Minggu;21.35;lancar;3551.9;308.1;0.0;0.0;data/traffic_tugu muda semarang_Minggu-21.35.png
+99;tugu muda semarang;Minggu;21.45;lancar;3821.6;35.5;0.0;0.0;data/traffic_tugu muda semarang_Minggu-21.45.png
+100;tugu muda semarang;Minggu;21.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-21.55.png
+101;tugu muda semarang;Minggu;22.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Minggu-22.00.png
+1;tugu muda semarang;Senin;06.00;lancar;3777.2;77.4;0.0;0.0;data/traffic_tugu muda semarang_Senin-06.00.png
+2;tugu muda semarang;Senin;06.10;lancar;3345.4;471.8;0.0;0.0;data/traffic_tugu muda semarang_Senin-06.10.png
+3;tugu muda semarang;Senin;06.20;lancar;3345.4;471.8;0.0;0.0;data/traffic_tugu muda semarang_Senin-06.20.png
+4;tugu muda semarang;Senin;06.30;lancar;3577.9;230.3;6.6;0.0;data/traffic_tugu muda semarang_Senin-06.30.png
+5;tugu muda semarang;Senin;06.40;lancar;3391.1;435.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-06.40.png
+6;tugu muda semarang;Senin;06.50;lancar;3391.1;435.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-06.50.png
+7;tugu muda semarang;Senin;07.00;lancar;3821.6;35.5;0.0;0.0;data/traffic_tugu muda semarang_Senin-07.00.png
+8;tugu muda semarang;Senin;07.10;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-07.10.png
+9;tugu muda semarang;Senin;07.20;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-07.20.png
+10;tugu muda semarang;Senin;07.30;lancar;3687.9;175.5;0.0;0.0;data/traffic_tugu muda semarang_Senin-07.30.png
+11;tugu muda semarang;Senin;07.40;lancar;3655.1;166.9;0.0;0.0;data/traffic_tugu muda semarang_Senin-07.40.png
+12;tugu muda semarang;Senin;07.50;lancar;3655.1;166.9;0.0;0.0;data/traffic_tugu muda semarang_Senin-07.50.png
+13;tugu muda semarang;Senin;08.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-08.00.png
+14;tugu muda semarang;Senin;08.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-08.05.png
+15;tugu muda semarang;Senin;08.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-08.15.png
+16;tugu muda semarang;Senin;08.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-08.25.png
+17;tugu muda semarang;Senin;08.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-08.35.png
+18;tugu muda semarang;Senin;08.45;lancar;3504.0;318.7;0.0;0.0;data/traffic_tugu muda semarang_Senin-08.45.png
+19;tugu muda semarang;Senin;08.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-08.55.png
+20;tugu muda semarang;Senin;09.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-09.05.png
+21;tugu muda semarang;Senin;09.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-09.15.png
+22;tugu muda semarang;Senin;09.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-09.25.png
+23;tugu muda semarang;Senin;09.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-09.35.png
+24;tugu muda semarang;Senin;09.45;lancar;3694.5;167.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-09.45.png
+25;tugu muda semarang;Senin;09.55;lancar;3658.4;203.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-09.55.png
+26;tugu muda semarang;Senin;10.00;lancar;3658.4;203.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-10.00.png
+27;tugu muda semarang;Senin;10.10;lancar;3507.3;203.4;130.2;0.0;data/traffic_tugu muda semarang_Senin-10.10.png
+28;tugu muda semarang;Senin;10.20;lancar;3507.3;203.4;130.2;0.0;data/traffic_tugu muda semarang_Senin-10.20.png
+29;tugu muda semarang;Senin;10.30;lancar;3496.7;203.4;137.9;0.0;data/traffic_tugu muda semarang_Senin-10.30.png
+30;tugu muda semarang;Senin;10.40;lancar;3442.6;258.0;137.9;0.0;data/traffic_tugu muda semarang_Senin-10.40.png
+31;tugu muda semarang;Senin;10.50;lancar;3442.6;258.0;137.9;0.0;data/traffic_tugu muda semarang_Senin-10.50.png
+32;tugu muda semarang;Senin;11.00;lancar;3143.1;578.6;130.2;0.0;data/traffic_tugu muda semarang_Senin-11.00.png
+33;tugu muda semarang;Senin;11.10;lancar;3143.1;721.8;6.6;0.0;data/traffic_tugu muda semarang_Senin-11.10.png
+34;tugu muda semarang;Senin;11.20;lancar;3143.1;721.8;6.6;0.0;data/traffic_tugu muda semarang_Senin-11.20.png
+35;tugu muda semarang;Senin;11.30;lancar;3310.1;556.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-11.30.png
+36;tugu muda semarang;Senin;11.40;lancar;3310.1;556.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-11.40.png
+37;tugu muda semarang;Senin;11.50;lancar;3310.1;556.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-11.50.png
+38;tugu muda semarang;Senin;12.00;lancar;3476.9;382.4;0.0;0.0;data/traffic_tugu muda semarang_Senin-12.00.png
+39;tugu muda semarang;Senin;12.05;lancar;3476.9;382.4;0.0;0.0;data/traffic_tugu muda semarang_Senin-12.05.png
+40;tugu muda semarang;Senin;12.15;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-12.15.png
+41;tugu muda semarang;Senin;12.25;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-12.25.png
+42;tugu muda semarang;Senin;12.35;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-12.35.png
+43;tugu muda semarang;Senin;12.45;lancar;3310.1;556.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-12.45.png
+44;tugu muda semarang;Senin;12.55;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-12.55.png
+45;tugu muda semarang;Senin;13.05;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-13.05.png
+46;tugu muda semarang;Senin;13.15;lancar;3431.6;416.5;6.6;0.0;data/traffic_tugu muda semarang_Senin-13.15.png
+47;tugu muda semarang;Senin;13.25;lancar;3431.6;264.5;137.9;0.0;data/traffic_tugu muda semarang_Senin-13.25.png
+48;tugu muda semarang;Senin;13.35;lancar;3431.6;264.5;137.9;0.0;data/traffic_tugu muda semarang_Senin-13.35.png
+49;tugu muda semarang;Senin;13.45;lancar;3185.7;472.5;176.4;0.0;data/traffic_tugu muda semarang_Senin-13.45.png
+50;tugu muda semarang;Senin;13.55;lancar;3301.2;550.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-13.55.png
+51;tugu muda semarang;Senin;14.00;lancar;3301.2;550.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-14.00.png
+52;tugu muda semarang;Senin;14.10;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Senin-14.10.png
+53;tugu muda semarang;Senin;14.20;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Senin-14.20.png
+54;tugu muda semarang;Senin;14.30;lancar;3422.8;276.2;137.9;0.0;data/traffic_tugu muda semarang_Senin-14.30.png
+55;tugu muda semarang;Senin;14.40;lancar;3358.3;342.4;137.9;0.0;data/traffic_tugu muda semarang_Senin-14.40.png
+56;tugu muda semarang;Senin;14.50;lancar;3358.3;342.4;137.9;0.0;data/traffic_tugu muda semarang_Senin-14.50.png
+57;tugu muda semarang;Senin;15.00;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Senin-15.00.png
+58;tugu muda semarang;Senin;15.10;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-15.10.png
+59;tugu muda semarang;Senin;15.20;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-15.20.png
+60;tugu muda semarang;Senin;15.30;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Senin-15.30.png
+61;tugu muda semarang;Senin;15.40;lancar;3623.9;221.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-15.40.png
+62;tugu muda semarang;Senin;15.50;lancar;3623.9;221.6;6.6;0.0;data/traffic_tugu muda semarang_Senin-15.50.png
+63;tugu muda semarang;Senin;16.00;lancar;3331.7;532.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-16.00.png
+64;tugu muda semarang;Senin;16.05;lancar;3331.7;532.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-16.05.png
+65;tugu muda semarang;Senin;16.15;lancar;3647.8;212.4;0.0;0.0;data/traffic_tugu muda semarang_Senin-16.15.png
+66;tugu muda semarang;Senin;16.25;lancar;3342.3;523.8;0.0;0.0;data/traffic_tugu muda semarang_Senin-16.25.png
+67;tugu muda semarang;Senin;16.35;lancar;3342.3;523.8;0.0;0.0;data/traffic_tugu muda semarang_Senin-16.35.png
+68;tugu muda semarang;Senin;16.45;lancar;3331.7;532.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-16.45.png
+69;tugu muda semarang;Senin;16.55;lancar;3388.7;476.2;0.0;0.0;data/traffic_tugu muda semarang_Senin-16.55.png
+70;tugu muda semarang;Senin;17.05;lancar;3388.7;476.2;0.0;0.0;data/traffic_tugu muda semarang_Senin-17.05.png
+71;tugu muda semarang;Senin;17.15;lancar;3288.2;578.4;0.0;0.0;data/traffic_tugu muda semarang_Senin-17.15.png
+72;tugu muda semarang;Senin;17.25;lancar;3121.4;752.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-17.25.png
+73;tugu muda semarang;Senin;17.35;lancar;3121.4;752.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-17.35.png
+74;tugu muda semarang;Senin;17.45;lancar;3551.9;308.1;0.0;0.0;data/traffic_tugu muda semarang_Senin-17.45.png
+75;tugu muda semarang;Senin;17.55;lancar;3584.5;273.3;0.0;0.0;data/traffic_tugu muda semarang_Senin-17.55.png
+76;tugu muda semarang;Senin;18.00;lancar;3584.5;273.3;0.0;0.0;data/traffic_tugu muda semarang_Senin-18.00.png
+77;tugu muda semarang;Senin;18.10;lancar;3383.4;479.9;0.0;0.0;data/traffic_tugu muda semarang_Senin-18.10.png
+78;tugu muda semarang;Senin;18.20;lancar;3383.4;479.9;0.0;0.0;data/traffic_tugu muda semarang_Senin-18.20.png
+79;tugu muda semarang;Senin;18.30;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Senin-18.30.png
+80;tugu muda semarang;Senin;18.40;lancar;3803.6;53.5;0.0;0.0;data/traffic_tugu muda semarang_Senin-18.40.png
+81;tugu muda semarang;Senin;18.50;lancar;3803.6;53.5;0.0;0.0;data/traffic_tugu muda semarang_Senin-18.50.png
+82;tugu muda semarang;Senin;19.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-19.00.png
+83;tugu muda semarang;Senin;19.10;lancar;3706.6;150.7;0.0;0.0;data/traffic_tugu muda semarang_Senin-19.10.png
+84;tugu muda semarang;Senin;19.20;lancar;3706.6;150.7;0.0;0.0;data/traffic_tugu muda semarang_Senin-19.20.png
+85;tugu muda semarang;Senin;19.30;lancar;3546.6;311.8;0.0;0.0;data/traffic_tugu muda semarang_Senin-19.30.png
+86;tugu muda semarang;Senin;19.40;lancar;3417.6;437.8;0.0;0.0;data/traffic_tugu muda semarang_Senin-19.40.png
+87;tugu muda semarang;Senin;19.50;lancar;3417.6;437.8;0.0;0.0;data/traffic_tugu muda semarang_Senin-19.50.png
+88;tugu muda semarang;Senin;20.00;lancar;3636.8;220.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-20.00.png
+89;tugu muda semarang;Senin;20.05;lancar;3636.8;220.6;0.0;0.0;data/traffic_tugu muda semarang_Senin-20.05.png
+90;tugu muda semarang;Senin;20.15;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Senin-20.15.png
+91;tugu muda semarang;Senin;20.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-20.25.png
+92;tugu muda semarang;Senin;20.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-20.35.png
+93;tugu muda semarang;Senin;20.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-20.45.png
+94;tugu muda semarang;Senin;20.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-20.55.png
+95;tugu muda semarang;Senin;21.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-21.05.png
+96;tugu muda semarang;Senin;21.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-21.15.png
+97;tugu muda semarang;Senin;21.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-21.25.png
+98;tugu muda semarang;Senin;21.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-21.35.png
+99;tugu muda semarang;Senin;21.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-21.45.png
+100;tugu muda semarang;Senin;21.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-21.55.png
+101;tugu muda semarang;Senin;22.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Senin-22.00.png
+1;tugu muda semarang;Selasa;06.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-06.00.png
+2;tugu muda semarang;Selasa;06.10;lancar;3780.5;62.3;6.6;0.0;data/traffic_tugu muda semarang_Selasa-06.10.png
+3;tugu muda semarang;Selasa;06.20;lancar;3780.5;62.3;6.6;0.0;data/traffic_tugu muda semarang_Selasa-06.20.png
+4;tugu muda semarang;Selasa;06.30;lancar;3780.5;62.3;6.6;0.0;data/traffic_tugu muda semarang_Selasa-06.30.png
+5;tugu muda semarang;Selasa;06.40;lancar;3647.8;212.4;0.0;0.0;data/traffic_tugu muda semarang_Selasa-06.40.png
+6;tugu muda semarang;Selasa;06.50;lancar;3647.8;212.4;0.0;0.0;data/traffic_tugu muda semarang_Selasa-06.50.png
+7;tugu muda semarang;Selasa;07.00;lancar;3841.5;15.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-07.00.png
+8;tugu muda semarang;Selasa;07.10;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-07.10.png
+9;tugu muda semarang;Selasa;07.20;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-07.20.png
+10;tugu muda semarang;Selasa;07.30;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-07.30.png
+11;tugu muda semarang;Selasa;07.40;lancar;3338.4;354.6;145.1;0.0;data/traffic_tugu muda semarang_Selasa-07.40.png
+12;tugu muda semarang;Selasa;07.50;lancar;3338.4;354.6;145.1;0.0;data/traffic_tugu muda semarang_Selasa-07.50.png
+13;tugu muda semarang;Selasa;08.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-08.00.png
+14;tugu muda semarang;Selasa;08.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-08.05.png
+15;tugu muda semarang;Selasa;08.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-08.15.png
+16;tugu muda semarang;Selasa;08.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-08.25.png
+17;tugu muda semarang;Selasa;08.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-08.35.png
+18;tugu muda semarang;Selasa;08.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-08.45.png
+19;tugu muda semarang;Selasa;08.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-08.55.png
+20;tugu muda semarang;Selasa;09.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-09.05.png
+21;tugu muda semarang;Selasa;09.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-09.15.png
+22;tugu muda semarang;Selasa;09.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-09.25.png
+23;tugu muda semarang;Selasa;09.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-09.35.png
+24;tugu muda semarang;Selasa;09.45;lancar;3841.5;15.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-09.45.png
+25;tugu muda semarang;Selasa;09.55;lancar;3771.7;84.9;0.0;0.0;data/traffic_tugu muda semarang_Selasa-09.55.png
+26;tugu muda semarang;Selasa;10.00;lancar;3771.7;84.9;0.0;0.0;data/traffic_tugu muda semarang_Selasa-10.00.png
+27;tugu muda semarang;Selasa;10.10;lancar;3624.7;236.9;0.0;0.0;data/traffic_tugu muda semarang_Selasa-10.10.png
+28;tugu muda semarang;Selasa;10.20;lancar;3624.7;236.9;0.0;0.0;data/traffic_tugu muda semarang_Selasa-10.20.png
+29;tugu muda semarang;Selasa;10.30;lancar;3694.5;15.0;130.2;0.0;data/traffic_tugu muda semarang_Selasa-10.30.png
+30;tugu muda semarang;Selasa;10.40;lancar;3604.3;106.2;130.2;0.0;data/traffic_tugu muda semarang_Selasa-10.40.png
+31;tugu muda semarang;Selasa;10.50;lancar;3604.3;106.2;130.2;0.0;data/traffic_tugu muda semarang_Selasa-10.50.png
+32;tugu muda semarang;Selasa;11.00;lancar;3647.8;60.4;130.2;0.0;data/traffic_tugu muda semarang_Selasa-11.00.png
+33;tugu muda semarang;Selasa;11.10;lancar;3640.1;214.3;0.0;0.0;data/traffic_tugu muda semarang_Selasa-11.10.png
+34;tugu muda semarang;Selasa;11.20;lancar;3640.1;214.3;0.0;0.0;data/traffic_tugu muda semarang_Selasa-11.20.png
+35;tugu muda semarang;Selasa;11.30;lancar;3640.1;214.3;0.0;0.0;data/traffic_tugu muda semarang_Selasa-11.30.png
+36;tugu muda semarang;Selasa;11.40;lancar;3659.9;196.1;0.0;0.0;data/traffic_tugu muda semarang_Selasa-11.40.png
+37;tugu muda semarang;Selasa;11.50;lancar;3659.9;196.1;0.0;0.0;data/traffic_tugu muda semarang_Selasa-11.50.png
+38;tugu muda semarang;Selasa;12.00;lancar;3329.9;529.6;6.6;0.0;data/traffic_tugu muda semarang_Selasa-12.00.png
+39;tugu muda semarang;Selasa;12.05;lancar;3329.9;529.6;6.6;0.0;data/traffic_tugu muda semarang_Selasa-12.05.png
+40;tugu muda semarang;Selasa;12.15;lancar;3659.9;196.1;0.0;0.0;data/traffic_tugu muda semarang_Selasa-12.15.png
+41;tugu muda semarang;Selasa;12.25;lancar;3643.7;212.2;0.0;0.0;data/traffic_tugu muda semarang_Selasa-12.25.png
+42;tugu muda semarang;Selasa;12.35;lancar;3643.7;212.2;0.0;0.0;data/traffic_tugu muda semarang_Selasa-12.35.png
+43;tugu muda semarang;Selasa;12.45;lancar;3643.7;212.2;0.0;0.0;data/traffic_tugu muda semarang_Selasa-12.45.png
+44;tugu muda semarang;Selasa;12.55;lancar;3659.9;187.3;6.6;0.0;data/traffic_tugu muda semarang_Selasa-12.55.png
+45;tugu muda semarang;Selasa;13.05;lancar;3659.9;187.3;6.6;0.0;data/traffic_tugu muda semarang_Selasa-13.05.png
+46;tugu muda semarang;Selasa;13.15;lancar;3613.2;230.2;6.6;0.0;data/traffic_tugu muda semarang_Selasa-13.15.png
+47;tugu muda semarang;Selasa;13.25;lancar;3466.2;382.2;6.6;0.0;data/traffic_tugu muda semarang_Selasa-13.25.png
+48;tugu muda semarang;Selasa;13.35;lancar;3466.2;382.2;6.6;0.0;data/traffic_tugu muda semarang_Selasa-13.35.png
+49;tugu muda semarang;Selasa;13.45;lancar;3232.1;611.2;14.3;0.0;data/traffic_tugu muda semarang_Selasa-13.45.png
+50;tugu muda semarang;Selasa;13.55;lancar;3466.2;382.2;6.6;0.0;data/traffic_tugu muda semarang_Selasa-13.55.png
+51;tugu muda semarang;Selasa;14.00;lancar;3466.2;382.2;6.6;0.0;data/traffic_tugu muda semarang_Selasa-14.00.png
+52;tugu muda semarang;Selasa;14.10;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Selasa-14.10.png
+53;tugu muda semarang;Selasa;14.20;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Selasa-14.20.png
+54;tugu muda semarang;Selasa;14.30;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Selasa-14.30.png
+55;tugu muda semarang;Selasa;14.40;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Selasa-14.40.png
+56;tugu muda semarang;Selasa;14.50;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Selasa-14.50.png
+57;tugu muda semarang;Selasa;15.00;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Selasa-15.00.png
+58;tugu muda semarang;Selasa;15.10;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Selasa-15.10.png
+59;tugu muda semarang;Selasa;15.20;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Selasa-15.20.png
+60;tugu muda semarang;Selasa;15.30;lancar;3378.1;485.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-15.30.png
+61;tugu muda semarang;Selasa;15.40;lancar;3496.7;355.4;6.6;0.0;data/traffic_tugu muda semarang_Selasa-15.40.png
+62;tugu muda semarang;Selasa;15.50;lancar;3496.7;355.4;6.6;0.0;data/traffic_tugu muda semarang_Selasa-15.50.png
+63;tugu muda semarang;Selasa;16.00;lancar;3496.7;355.4;6.6;0.0;data/traffic_tugu muda semarang_Selasa-16.00.png
+64;tugu muda semarang;Selasa;16.05;lancar;3496.7;355.4;6.6;0.0;data/traffic_tugu muda semarang_Selasa-16.05.png
+65;tugu muda semarang;Selasa;16.15;lancar;3137.4;571.2;137.9;0.0;data/traffic_tugu muda semarang_Selasa-16.15.png
+66;tugu muda semarang;Selasa;16.25;lancar;3145.1;564.2;137.9;0.0;data/traffic_tugu muda semarang_Selasa-16.25.png
+67;tugu muda semarang;Selasa;16.35;lancar;3145.1;564.2;137.9;0.0;data/traffic_tugu muda semarang_Selasa-16.35.png
+68;tugu muda semarang;Selasa;16.45;lancar;3324.0;530.8;6.6;0.0;data/traffic_tugu muda semarang_Selasa-16.45.png
+69;tugu muda semarang;Selasa;16.55;lancar;3331.7;532.6;0.0;0.0;data/traffic_tugu muda semarang_Selasa-16.55.png
+70;tugu muda semarang;Selasa;17.05;lancar;3331.7;532.6;0.0;0.0;data/traffic_tugu muda semarang_Selasa-17.05.png
+71;tugu muda semarang;Selasa;17.15;lancar;3121.4;752.6;0.0;0.0;data/traffic_tugu muda semarang_Selasa-17.15.png
+72;tugu muda semarang;Selasa;17.25;lancar;3110.8;761.4;0.0;0.0;data/traffic_tugu muda semarang_Selasa-17.25.png
+73;tugu muda semarang;Selasa;17.35;lancar;3110.8;761.4;0.0;0.0;data/traffic_tugu muda semarang_Selasa-17.35.png
+74;tugu muda semarang;Selasa;17.45;lancar;3175.5;698.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-17.45.png
+75;tugu muda semarang;Selasa;17.55;lancar;3437.5;425.3;0.0;0.0;data/traffic_tugu muda semarang_Selasa-17.55.png
+76;tugu muda semarang;Selasa;18.00;lancar;3437.5;425.3;0.0;0.0;data/traffic_tugu muda semarang_Selasa-18.00.png
+77;tugu muda semarang;Selasa;18.10;lancar;3570.6;139.5;130.2;0.0;data/traffic_tugu muda semarang_Selasa-18.10.png
+78;tugu muda semarang;Selasa;18.20;lancar;3570.6;139.5;130.2;0.0;data/traffic_tugu muda semarang_Selasa-18.20.png
+79;tugu muda semarang;Selasa;18.30;lancar;3419.5;443.3;0.0;0.0;data/traffic_tugu muda semarang_Selasa-18.30.png
+80;tugu muda semarang;Selasa;18.40;lancar;3570.6;291.5;0.0;0.0;data/traffic_tugu muda semarang_Selasa-18.40.png
+81;tugu muda semarang;Selasa;18.50;lancar;3570.6;291.5;0.0;0.0;data/traffic_tugu muda semarang_Selasa-18.50.png
+82;tugu muda semarang;Selasa;19.00;lancar;3803.6;53.5;0.0;0.0;data/traffic_tugu muda semarang_Selasa-19.00.png
+83;tugu muda semarang;Selasa;19.10;lancar;3706.6;150.7;0.0;0.0;data/traffic_tugu muda semarang_Selasa-19.10.png
+84;tugu muda semarang;Selasa;19.20;lancar;3706.6;150.7;0.0;0.0;data/traffic_tugu muda semarang_Selasa-19.20.png
+85;tugu muda semarang;Selasa;19.30;lancar;3667.2;181.8;0.0;0.0;data/traffic_tugu muda semarang_Selasa-19.30.png
+86;tugu muda semarang;Selasa;19.40;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-19.40.png
+87;tugu muda semarang;Selasa;19.50;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-19.50.png
+88;tugu muda semarang;Selasa;20.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-20.00.png
+89;tugu muda semarang;Selasa;20.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-20.05.png
+90;tugu muda semarang;Selasa;20.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-20.15.png
+91;tugu muda semarang;Selasa;20.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-20.25.png
+92;tugu muda semarang;Selasa;20.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-20.35.png
+93;tugu muda semarang;Selasa;20.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-20.45.png
+94;tugu muda semarang;Selasa;20.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-20.55.png
+95;tugu muda semarang;Selasa;21.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-21.05.png
+96;tugu muda semarang;Selasa;21.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Selasa-21.15.png
+97;tugu muda semarang;Selasa;21.25;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Selasa-21.25.png
+98;tugu muda semarang;Selasa;21.35;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Selasa-21.35.png
+99;tugu muda semarang;Selasa;21.45;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Selasa-21.45.png
+100;tugu muda semarang;Selasa;21.55;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Selasa-21.55.png
+101;tugu muda semarang;Selasa;22.00;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Selasa-22.00.png
+1;tugu muda semarang;Rabu;06.00;lancar;3465.2;350.2;0.0;0.0;data/traffic_tugu muda semarang_Rabu-06.00.png
+2;tugu muda semarang;Rabu;06.10;lancar;3590.0;245.2;6.6;0.0;data/traffic_tugu muda semarang_Rabu-06.10.png
+3;tugu muda semarang;Rabu;06.20;lancar;3590.0;245.2;6.6;0.0;data/traffic_tugu muda semarang_Rabu-06.20.png
+4;tugu muda semarang;Rabu;06.30;lancar;3780.5;62.3;6.6;0.0;data/traffic_tugu muda semarang_Rabu-06.30.png
+5;tugu muda semarang;Rabu;06.40;lancar;3647.8;212.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-06.40.png
+6;tugu muda semarang;Rabu;06.50;lancar;3647.8;212.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-06.50.png
+7;tugu muda semarang;Rabu;07.00;lancar;3694.5;167.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-07.00.png
+8;tugu muda semarang;Rabu;07.10;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-07.10.png
+9;tugu muda semarang;Rabu;07.20;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-07.20.png
+10;tugu muda semarang;Rabu;07.30;lancar;3841.5;15.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-07.30.png
+11;tugu muda semarang;Rabu;07.40;lancar;3841.5;15.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-07.40.png
+12;tugu muda semarang;Rabu;07.50;lancar;3841.5;15.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-07.50.png
+13;tugu muda semarang;Rabu;08.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-08.00.png
+14;tugu muda semarang;Rabu;08.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-08.05.png
+15;tugu muda semarang;Rabu;08.15;lancar;3706.6;150.7;0.0;0.0;data/traffic_tugu muda semarang_Rabu-08.15.png
+16;tugu muda semarang;Rabu;08.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-08.25.png
+17;tugu muda semarang;Rabu;08.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-08.35.png
+18;tugu muda semarang;Rabu;08.45;lancar;3706.6;150.7;0.0;0.0;data/traffic_tugu muda semarang_Rabu-08.45.png
+19;tugu muda semarang;Rabu;08.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-08.55.png
+20;tugu muda semarang;Rabu;09.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-09.05.png
+21;tugu muda semarang;Rabu;09.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-09.15.png
+22;tugu muda semarang;Rabu;09.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-09.25.png
+23;tugu muda semarang;Rabu;09.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-09.35.png
+24;tugu muda semarang;Rabu;09.45;lancar;3694.5;167.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-09.45.png
+25;tugu muda semarang;Rabu;09.55;lancar;3658.4;51.6;130.2;0.0;data/traffic_tugu muda semarang_Rabu-09.55.png
+26;tugu muda semarang;Rabu;10.00;lancar;3658.4;51.6;130.2;0.0;data/traffic_tugu muda semarang_Rabu-10.00.png
+27;tugu muda semarang;Rabu;10.10;lancar;3507.3;203.4;130.2;0.0;data/traffic_tugu muda semarang_Rabu-10.10.png
+28;tugu muda semarang;Rabu;10.20;lancar;3507.3;203.4;130.2;0.0;data/traffic_tugu muda semarang_Rabu-10.20.png
+29;tugu muda semarang;Rabu;10.30;lancar;3403.7;305.8;130.2;0.0;data/traffic_tugu muda semarang_Rabu-10.30.png
+30;tugu muda semarang;Rabu;10.40;lancar;3372.8;336.7;130.2;0.0;data/traffic_tugu muda semarang_Rabu-10.40.png
+31;tugu muda semarang;Rabu;10.50;lancar;3372.8;336.7;130.2;0.0;data/traffic_tugu muda semarang_Rabu-10.50.png
+32;tugu muda semarang;Rabu;11.00;lancar;3372.8;336.7;130.2;0.0;data/traffic_tugu muda semarang_Rabu-11.00.png
+33;tugu muda semarang;Rabu;11.10;lancar;3407.1;443.5;6.6;0.0;data/traffic_tugu muda semarang_Rabu-11.10.png
+34;tugu muda semarang;Rabu;11.20;lancar;3407.1;443.5;6.6;0.0;data/traffic_tugu muda semarang_Rabu-11.20.png
+35;tugu muda semarang;Rabu;11.30;lancar;3473.3;379.7;6.6;0.0;data/traffic_tugu muda semarang_Rabu-11.30.png
+36;tugu muda semarang;Rabu;11.40;lancar;3476.9;382.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-11.40.png
+37;tugu muda semarang;Rabu;11.50;lancar;3476.9;382.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-11.50.png
+38;tugu muda semarang;Rabu;12.00;lancar;3643.7;212.2;0.0;0.0;data/traffic_tugu muda semarang_Rabu-12.00.png
+39;tugu muda semarang;Rabu;12.05;lancar;3643.7;212.2;0.0;0.0;data/traffic_tugu muda semarang_Rabu-12.05.png
+40;tugu muda semarang;Rabu;12.15;lancar;3659.9;196.1;0.0;0.0;data/traffic_tugu muda semarang_Rabu-12.15.png
+41;tugu muda semarang;Rabu;12.25;lancar;3659.9;196.1;0.0;0.0;data/traffic_tugu muda semarang_Rabu-12.25.png
+42;tugu muda semarang;Rabu;12.35;lancar;3659.9;196.1;0.0;0.0;data/traffic_tugu muda semarang_Rabu-12.35.png
+43;tugu muda semarang;Rabu;12.45;lancar;3512.9;348.1;0.0;0.0;data/traffic_tugu muda semarang_Rabu-12.45.png
+44;tugu muda semarang;Rabu;12.55;lancar;3496.7;364.2;0.0;0.0;data/traffic_tugu muda semarang_Rabu-12.55.png
+45;tugu muda semarang;Rabu;13.05;lancar;3496.7;364.2;0.0;0.0;data/traffic_tugu muda semarang_Rabu-13.05.png
+46;tugu muda semarang;Rabu;13.15;lancar;3412.1;436.8;6.6;0.0;data/traffic_tugu muda semarang_Rabu-13.15.png
+47;tugu muda semarang;Rabu;13.25;lancar;3466.2;382.2;6.6;0.0;data/traffic_tugu muda semarang_Rabu-13.25.png
+48;tugu muda semarang;Rabu;13.35;lancar;3466.2;382.2;6.6;0.0;data/traffic_tugu muda semarang_Rabu-13.35.png
+49;tugu muda semarang;Rabu;13.45;lancar;3313.0;376.7;145.6;0.0;data/traffic_tugu muda semarang_Rabu-13.45.png
+50;tugu muda semarang;Rabu;13.55;lancar;3266.6;432.9;137.9;0.0;data/traffic_tugu muda semarang_Rabu-13.55.png
+51;tugu muda semarang;Rabu;14.00;lancar;3266.6;432.9;137.9;0.0;data/traffic_tugu muda semarang_Rabu-14.00.png
+52;tugu muda semarang;Rabu;14.10;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Rabu-14.10.png
+53;tugu muda semarang;Rabu;14.20;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Rabu-14.20.png
+54;tugu muda semarang;Rabu;14.30;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Rabu-14.30.png
+55;tugu muda semarang;Rabu;14.40;lancar;3324.5;375.9;137.9;0.0;data/traffic_tugu muda semarang_Rabu-14.40.png
+56;tugu muda semarang;Rabu;14.50;lancar;3324.5;375.9;137.9;0.0;data/traffic_tugu muda semarang_Rabu-14.50.png
+57;tugu muda semarang;Rabu;15.00;lancar;3505.3;342.4;6.6;0.0;data/traffic_tugu muda semarang_Rabu-15.00.png
+58;tugu muda semarang;Rabu;15.10;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Rabu-15.10.png
+59;tugu muda semarang;Rabu;15.20;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Rabu-15.20.png
+60;tugu muda semarang;Rabu;15.30;lancar;3331.7;523.8;6.6;0.0;data/traffic_tugu muda semarang_Rabu-15.30.png
+61;tugu muda semarang;Rabu;15.40;lancar;3331.7;532.6;0.0;0.0;data/traffic_tugu muda semarang_Rabu-15.40.png
+62;tugu muda semarang;Rabu;15.50;lancar;3331.7;532.6;0.0;0.0;data/traffic_tugu muda semarang_Rabu-15.50.png
+63;tugu muda semarang;Rabu;16.00;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Rabu-16.00.png
+64;tugu muda semarang;Rabu;16.05;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Rabu-16.05.png
+65;tugu muda semarang;Rabu;16.15;lancar;3137.4;723.2;6.6;0.0;data/traffic_tugu muda semarang_Rabu-16.15.png
+66;tugu muda semarang;Rabu;16.25;lancar;3091.0;618.8;137.9;0.0;data/traffic_tugu muda semarang_Rabu-16.25.png
+67;tugu muda semarang;Rabu;16.35;lancar;3091.0;618.8;137.9;0.0;data/traffic_tugu muda semarang_Rabu-16.35.png
+68;tugu muda semarang;Rabu;16.45;lancar;3257.8;605.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-16.45.png
+69;tugu muda semarang;Rabu;16.55;lancar;3329.9;538.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-16.55.png
+70;tugu muda semarang;Rabu;17.05;lancar;3329.9;538.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-17.05.png
+71;tugu muda semarang;Rabu;17.15;lancar;3157.2;713.8;0.0;0.0;data/traffic_tugu muda semarang_Rabu-17.15.png
+72;tugu muda semarang;Rabu;17.25;lancar;3057.4;666.4;130.2;0.0;data/traffic_tugu muda semarang_Rabu-17.25.png
+73;tugu muda semarang;Rabu;17.35;lancar;3057.4;666.4;130.2;0.0;data/traffic_tugu muda semarang_Rabu-17.35.png
+74;tugu muda semarang;Rabu;17.45;lancar;3277.6;587.2;0.0;0.0;data/traffic_tugu muda semarang_Rabu-17.45.png
+75;tugu muda semarang;Rabu;17.55;lancar;3535.7;324.2;0.0;0.0;data/traffic_tugu muda semarang_Rabu-17.55.png
+76;tugu muda semarang;Rabu;18.00;lancar;3535.7;324.2;0.0;0.0;data/traffic_tugu muda semarang_Rabu-18.00.png
+77;tugu muda semarang;Rabu;18.10;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-18.10.png
+78;tugu muda semarang;Rabu;18.20;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-18.20.png
+79;tugu muda semarang;Rabu;18.30;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-18.30.png
+80;tugu muda semarang;Rabu;18.40;lancar;3787.4;69.6;0.0;0.0;data/traffic_tugu muda semarang_Rabu-18.40.png
+81;tugu muda semarang;Rabu;18.50;lancar;3787.4;69.6;0.0;0.0;data/traffic_tugu muda semarang_Rabu-18.50.png
+82;tugu muda semarang;Rabu;19.00;lancar;3652.5;205.3;0.0;0.0;data/traffic_tugu muda semarang_Rabu-19.00.png
+83;tugu muda semarang;Rabu;19.10;lancar;3652.5;205.3;0.0;0.0;data/traffic_tugu muda semarang_Rabu-19.10.png
+84;tugu muda semarang;Rabu;19.20;lancar;3652.5;205.3;0.0;0.0;data/traffic_tugu muda semarang_Rabu-19.20.png
+85;tugu muda semarang;Rabu;19.30;lancar;3582.7;275.2;0.0;0.0;data/traffic_tugu muda semarang_Rabu-19.30.png
+86;tugu muda semarang;Rabu;19.40;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Rabu-19.40.png
+87;tugu muda semarang;Rabu;19.50;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Rabu-19.50.png
+88;tugu muda semarang;Rabu;20.00;lancar;3636.8;220.6;0.0;0.0;data/traffic_tugu muda semarang_Rabu-20.00.png
+89;tugu muda semarang;Rabu;20.05;lancar;3636.8;220.6;0.0;0.0;data/traffic_tugu muda semarang_Rabu-20.05.png
+90;tugu muda semarang;Rabu;20.15;lancar;3733.8;123.4;0.0;0.0;data/traffic_tugu muda semarang_Rabu-20.15.png
+91;tugu muda semarang;Rabu;20.25;lancar;3652.5;205.3;0.0;0.0;data/traffic_tugu muda semarang_Rabu-20.25.png
+92;tugu muda semarang;Rabu;20.35;lancar;3652.5;205.3;0.0;0.0;data/traffic_tugu muda semarang_Rabu-20.35.png
+93;tugu muda semarang;Rabu;20.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-20.45.png
+94;tugu muda semarang;Rabu;20.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-20.55.png
+95;tugu muda semarang;Rabu;21.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-21.05.png
+96;tugu muda semarang;Rabu;21.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Rabu-21.15.png
+97;tugu muda semarang;Rabu;21.25;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Rabu-21.25.png
+98;tugu muda semarang;Rabu;21.35;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Rabu-21.35.png
+99;tugu muda semarang;Rabu;21.45;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Rabu-21.45.png
+100;tugu muda semarang;Rabu;21.55;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Rabu-21.55.png
+101;tugu muda semarang;Rabu;22.00;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Rabu-22.00.png
+1;tugu muda semarang;Kamis;06.00;lancar;3777.2;77.4;0.0;0.0;data/traffic_tugu muda semarang_Kamis-06.00.png
+2;tugu muda semarang;Kamis;06.10;lancar;3730.5;122.8;0.0;0.0;data/traffic_tugu muda semarang_Kamis-06.10.png
+3;tugu muda semarang;Kamis;06.20;lancar;3730.5;122.8;0.0;0.0;data/traffic_tugu muda semarang_Kamis-06.20.png
+4;tugu muda semarang;Kamis;06.30;lancar;3629.4;214.1;6.6;0.0;data/traffic_tugu muda semarang_Kamis-06.30.png
+5;tugu muda semarang;Kamis;06.40;lancar;3619.1;239.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-06.40.png
+6;tugu muda semarang;Kamis;06.50;lancar;3619.1;239.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-06.50.png
+7;tugu muda semarang;Kamis;07.00;lancar;3771.7;84.9;0.0;0.0;data/traffic_tugu muda semarang_Kamis-07.00.png
+8;tugu muda semarang;Kamis;07.10;lancar;3771.7;84.9;0.0;0.0;data/traffic_tugu muda semarang_Kamis-07.10.png
+9;tugu muda semarang;Kamis;07.20;lancar;3771.7;84.9;0.0;0.0;data/traffic_tugu muda semarang_Kamis-07.20.png
+10;tugu muda semarang;Kamis;07.30;lancar;3706.6;150.7;0.0;0.0;data/traffic_tugu muda semarang_Kamis-07.30.png
+11;tugu muda semarang;Kamis;07.40;lancar;3513.0;349.8;0.0;0.0;data/traffic_tugu muda semarang_Kamis-07.40.png
+12;tugu muda semarang;Kamis;07.50;lancar;3513.0;349.8;0.0;0.0;data/traffic_tugu muda semarang_Kamis-07.50.png
+13;tugu muda semarang;Kamis;08.00;lancar;3821.6;35.5;0.0;0.0;data/traffic_tugu muda semarang_Kamis-08.00.png
+14;tugu muda semarang;Kamis;08.05;lancar;3821.6;35.5;0.0;0.0;data/traffic_tugu muda semarang_Kamis-08.05.png
+15;tugu muda semarang;Kamis;08.15;lancar;3821.6;35.5;0.0;0.0;data/traffic_tugu muda semarang_Kamis-08.15.png
+16;tugu muda semarang;Kamis;08.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-08.25.png
+17;tugu muda semarang;Kamis;08.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-08.35.png
+18;tugu muda semarang;Kamis;08.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-08.45.png
+19;tugu muda semarang;Kamis;08.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-08.55.png
+20;tugu muda semarang;Kamis;09.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-09.05.png
+21;tugu muda semarang;Kamis;09.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-09.15.png
+22;tugu muda semarang;Kamis;09.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-09.25.png
+23;tugu muda semarang;Kamis;09.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-09.35.png
+24;tugu muda semarang;Kamis;09.45;lancar;3841.5;15.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-09.45.png
+25;tugu muda semarang;Kamis;09.55;lancar;3658.4;51.6;130.2;0.0;data/traffic_tugu muda semarang_Kamis-09.55.png
+26;tugu muda semarang;Kamis;10.00;lancar;3658.4;51.6;130.2;0.0;data/traffic_tugu muda semarang_Kamis-10.00.png
+27;tugu muda semarang;Kamis;10.10;lancar;3496.7;212.2;130.2;0.0;data/traffic_tugu muda semarang_Kamis-10.10.png
+28;tugu muda semarang;Kamis;10.20;lancar;3496.7;212.2;130.2;0.0;data/traffic_tugu muda semarang_Kamis-10.20.png
+29;tugu muda semarang;Kamis;10.30;lancar;3624.6;84.1;130.2;0.0;data/traffic_tugu muda semarang_Kamis-10.30.png
+30;tugu muda semarang;Kamis;10.40;lancar;3442.6;266.8;130.2;0.0;data/traffic_tugu muda semarang_Kamis-10.40.png
+31;tugu muda semarang;Kamis;10.50;lancar;3442.6;266.8;130.2;0.0;data/traffic_tugu muda semarang_Kamis-10.50.png
+32;tugu muda semarang;Kamis;11.00;lancar;3496.7;212.2;130.2;0.0;data/traffic_tugu muda semarang_Kamis-11.00.png
+33;tugu muda semarang;Kamis;11.10;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Kamis-11.10.png
+34;tugu muda semarang;Kamis;11.20;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Kamis-11.20.png
+35;tugu muda semarang;Kamis;11.30;lancar;3623.9;221.6;6.6;0.0;data/traffic_tugu muda semarang_Kamis-11.30.png
+36;tugu muda semarang;Kamis;11.40;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Kamis-11.40.png
+37;tugu muda semarang;Kamis;11.50;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Kamis-11.50.png
+38;tugu muda semarang;Kamis;12.00;lancar;3640.1;205.5;6.6;0.0;data/traffic_tugu muda semarang_Kamis-12.00.png
+39;tugu muda semarang;Kamis;12.05;lancar;3640.1;205.5;6.6;0.0;data/traffic_tugu muda semarang_Kamis-12.05.png
+40;tugu muda semarang;Kamis;12.15;lancar;3640.1;205.5;6.6;0.0;data/traffic_tugu muda semarang_Kamis-12.15.png
+41;tugu muda semarang;Kamis;12.25;lancar;3496.7;364.2;0.0;0.0;data/traffic_tugu muda semarang_Kamis-12.25.png
+42;tugu muda semarang;Kamis;12.35;lancar;3496.7;364.2;0.0;0.0;data/traffic_tugu muda semarang_Kamis-12.35.png
+43;tugu muda semarang;Kamis;12.45;lancar;3496.7;364.2;0.0;0.0;data/traffic_tugu muda semarang_Kamis-12.45.png
+44;tugu muda semarang;Kamis;12.55;lancar;3496.7;355.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-12.55.png
+45;tugu muda semarang;Kamis;13.05;lancar;3496.7;355.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-13.05.png
+46;tugu muda semarang;Kamis;13.15;lancar;3466.2;382.2;6.6;0.0;data/traffic_tugu muda semarang_Kamis-13.15.png
+47;tugu muda semarang;Kamis;13.25;lancar;3466.2;382.2;6.6;0.0;data/traffic_tugu muda semarang_Kamis-13.25.png
+48;tugu muda semarang;Kamis;13.35;lancar;3466.2;382.2;6.6;0.0;data/traffic_tugu muda semarang_Kamis-13.35.png
+49;tugu muda semarang;Kamis;13.45;lancar;3397.8;255.1;176.4;0.0;data/traffic_tugu muda semarang_Kamis-13.45.png
+50;tugu muda semarang;Kamis;13.55;lancar;3301.2;398.6;137.9;0.0;data/traffic_tugu muda semarang_Kamis-13.55.png
+51;tugu muda semarang;Kamis;14.00;lancar;3301.2;398.6;137.9;0.0;data/traffic_tugu muda semarang_Kamis-14.00.png
+52;tugu muda semarang;Kamis;14.10;lancar;3347.6;351.0;137.9;0.0;data/traffic_tugu muda semarang_Kamis-14.10.png
+53;tugu muda semarang;Kamis;14.20;lancar;3347.6;351.0;137.9;0.0;data/traffic_tugu muda semarang_Kamis-14.20.png
+54;tugu muda semarang;Kamis;14.30;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-14.30.png
+55;tugu muda semarang;Kamis;14.40;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-14.40.png
+56;tugu muda semarang;Kamis;14.50;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-14.50.png
+57;tugu muda semarang;Kamis;15.00;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Kamis-15.00.png
+58;tugu muda semarang;Kamis;15.10;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-15.10.png
+59;tugu muda semarang;Kamis;15.20;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-15.20.png
+60;tugu muda semarang;Kamis;15.30;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-15.30.png
+61;tugu muda semarang;Kamis;15.40;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-15.40.png
+62;tugu muda semarang;Kamis;15.50;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Kamis-15.50.png
+63;tugu muda semarang;Kamis;16.00;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Kamis-16.00.png
+64;tugu muda semarang;Kamis;16.05;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Kamis-16.05.png
+65;tugu muda semarang;Kamis;16.15;lancar;3091.0;618.8;137.9;0.0;data/traffic_tugu muda semarang_Kamis-16.15.png
+66;tugu muda semarang;Kamis;16.25;lancar;3091.0;770.8;6.6;0.0;data/traffic_tugu muda semarang_Kamis-16.25.png
+67;tugu muda semarang;Kamis;16.35;lancar;3091.0;770.8;6.6;0.0;data/traffic_tugu muda semarang_Kamis-16.35.png
+68;tugu muda semarang;Kamis;16.45;lancar;3137.4;723.2;6.6;0.0;data/traffic_tugu muda semarang_Kamis-16.45.png
+69;tugu muda semarang;Kamis;16.55;lancar;3422.8;437.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-16.55.png
+70;tugu muda semarang;Kamis;17.05;lancar;3422.8;437.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-17.05.png
+71;tugu muda semarang;Kamis;17.15;lancar;3275.8;584.2;6.6;0.0;data/traffic_tugu muda semarang_Kamis-17.15.png
+72;tugu muda semarang;Kamis;17.25;lancar;3110.8;609.4;130.2;0.0;data/traffic_tugu muda semarang_Kamis-17.25.png
+73;tugu muda semarang;Kamis;17.35;lancar;3110.8;609.4;130.2;0.0;data/traffic_tugu muda semarang_Kamis-17.35.png
+74;tugu muda semarang;Kamis;17.45;lancar;3331.7;532.6;0.0;0.0;data/traffic_tugu muda semarang_Kamis-17.45.png
+75;tugu muda semarang;Kamis;17.55;lancar;3478.7;380.6;0.0;0.0;data/traffic_tugu muda semarang_Kamis-17.55.png
+76;tugu muda semarang;Kamis;18.00;lancar;3478.7;380.6;0.0;0.0;data/traffic_tugu muda semarang_Kamis-18.00.png
+77;tugu muda semarang;Kamis;18.10;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Kamis-18.10.png
+78;tugu muda semarang;Kamis;18.20;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Kamis-18.20.png
+79;tugu muda semarang;Kamis;18.30;lancar;3489.3;221.4;130.2;0.0;data/traffic_tugu muda semarang_Kamis-18.30.png
+80;tugu muda semarang;Kamis;18.40;lancar;3640.4;221.6;0.0;0.0;data/traffic_tugu muda semarang_Kamis-18.40.png
+81;tugu muda semarang;Kamis;18.50;lancar;3640.4;221.6;0.0;0.0;data/traffic_tugu muda semarang_Kamis-18.50.png
+82;tugu muda semarang;Kamis;19.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-19.00.png
+83;tugu muda semarang;Kamis;19.10;lancar;3670.5;187.3;0.0;0.0;data/traffic_tugu muda semarang_Kamis-19.10.png
+84;tugu muda semarang;Kamis;19.20;lancar;3670.5;187.3;0.0;0.0;data/traffic_tugu muda semarang_Kamis-19.20.png
+85;tugu muda semarang;Kamis;19.30;lancar;3533.9;326.1;0.0;0.0;data/traffic_tugu muda semarang_Kamis-19.30.png
+86;tugu muda semarang;Kamis;19.40;lancar;3706.6;150.7;0.0;0.0;data/traffic_tugu muda semarang_Kamis-19.40.png
+87;tugu muda semarang;Kamis;19.50;lancar;3706.6;150.7;0.0;0.0;data/traffic_tugu muda semarang_Kamis-19.50.png
+88;tugu muda semarang;Kamis;20.00;lancar;3652.5;205.3;0.0;0.0;data/traffic_tugu muda semarang_Kamis-20.00.png
+89;tugu muda semarang;Kamis;20.05;lancar;3652.5;205.3;0.0;0.0;data/traffic_tugu muda semarang_Kamis-20.05.png
+90;tugu muda semarang;Kamis;20.15;lancar;3803.6;53.5;0.0;0.0;data/traffic_tugu muda semarang_Kamis-20.15.png
+91;tugu muda semarang;Kamis;20.25;lancar;3803.6;53.5;0.0;0.0;data/traffic_tugu muda semarang_Kamis-20.25.png
+92;tugu muda semarang;Kamis;20.35;lancar;3803.6;53.5;0.0;0.0;data/traffic_tugu muda semarang_Kamis-20.35.png
+93;tugu muda semarang;Kamis;20.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-20.45.png
+94;tugu muda semarang;Kamis;20.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-20.55.png
+95;tugu muda semarang;Kamis;21.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-21.05.png
+96;tugu muda semarang;Kamis;21.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-21.15.png
+97;tugu muda semarang;Kamis;21.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-21.25.png
+98;tugu muda semarang;Kamis;21.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-21.35.png
+99;tugu muda semarang;Kamis;21.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Kamis-21.45.png
+100;tugu muda semarang;Kamis;21.55;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Kamis-21.55.png
+101;tugu muda semarang;Kamis;22.00;lancar;3787.9;68.8;0.0;0.0;data/traffic_tugu muda semarang_Kamis-22.00.png
+1;tugu muda semarang;Jumat;06.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Jumat-06.00.png
+2;tugu muda semarang;Jumat;06.10;lancar;3800.3;52.9;0.0;0.0;data/traffic_tugu muda semarang_Jumat-06.10.png
+3;tugu muda semarang;Jumat;06.20;lancar;3800.3;52.9;0.0;0.0;data/traffic_tugu muda semarang_Jumat-06.20.png
+4;tugu muda semarang;Jumat;06.30;lancar;3780.5;62.3;6.6;0.0;data/traffic_tugu muda semarang_Jumat-06.30.png
+5;tugu muda semarang;Jumat;06.40;lancar;3583.0;275.6;0.0;0.0;data/traffic_tugu muda semarang_Jumat-06.40.png
+6;tugu muda semarang;Jumat;06.50;lancar;3583.0;275.6;0.0;0.0;data/traffic_tugu muda semarang_Jumat-06.50.png
+7;tugu muda semarang;Jumat;07.00;lancar;3647.8;212.4;0.0;0.0;data/traffic_tugu muda semarang_Jumat-07.00.png
+8;tugu muda semarang;Jumat;07.10;lancar;3805.4;51.6;0.0;0.0;data/traffic_tugu muda semarang_Jumat-07.10.png
+9;tugu muda semarang;Jumat;07.20;lancar;3805.4;51.6;0.0;0.0;data/traffic_tugu muda semarang_Jumat-07.20.png
+10;tugu muda semarang;Jumat;07.30;lancar;3794.8;60.4;0.0;0.0;data/traffic_tugu muda semarang_Jumat-07.30.png
+11;tugu muda semarang;Jumat;07.40;lancar;3794.8;60.4;0.0;0.0;data/traffic_tugu muda semarang_Jumat-07.40.png
+12;tugu muda semarang;Jumat;07.50;lancar;3794.8;60.4;0.0;0.0;data/traffic_tugu muda semarang_Jumat-07.50.png
+13;tugu muda semarang;Jumat;08.00;lancar;3821.6;35.5;0.0;0.0;data/traffic_tugu muda semarang_Jumat-08.00.png
+14;tugu muda semarang;Jumat;08.05;lancar;3821.6;35.5;0.0;0.0;data/traffic_tugu muda semarang_Jumat-08.05.png
+15;tugu muda semarang;Jumat;08.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Jumat-08.15.png
+16;tugu muda semarang;Jumat;08.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Jumat-08.25.png
+17;tugu muda semarang;Jumat;08.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Jumat-08.35.png
+18;tugu muda semarang;Jumat;08.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Jumat-08.45.png
+19;tugu muda semarang;Jumat;08.55;lancar;3690.4;166.8;0.0;0.0;data/traffic_tugu muda semarang_Jumat-08.55.png
+20;tugu muda semarang;Jumat;09.05;lancar;3690.4;166.8;0.0;0.0;data/traffic_tugu muda semarang_Jumat-09.05.png
+21;tugu muda semarang;Jumat;09.15;lancar;3694.5;167.0;0.0;0.0;data/traffic_tugu muda semarang_Jumat-09.15.png
+22;tugu muda semarang;Jumat;09.25;lancar;3360.7;515.2;0.0;0.0;data/traffic_tugu muda semarang_Jumat-09.25.png
+23;tugu muda semarang;Jumat;09.35;lancar;3360.7;515.2;0.0;0.0;data/traffic_tugu muda semarang_Jumat-09.35.png
+24;tugu muda semarang;Jumat;09.45;lancar;3360.7;515.2;0.0;0.0;data/traffic_tugu muda semarang_Jumat-09.45.png
+25;tugu muda semarang;Jumat;09.55;lancar;3694.5;15.0;130.2;0.0;data/traffic_tugu muda semarang_Jumat-09.55.png
+26;tugu muda semarang;Jumat;10.00;lancar;3694.5;15.0;130.2;0.0;data/traffic_tugu muda semarang_Jumat-10.00.png
+27;tugu muda semarang;Jumat;10.10;lancar;3647.8;44.3;144.9;0.0;data/traffic_tugu muda semarang_Jumat-10.10.png
+28;tugu muda semarang;Jumat;10.20;lancar;3647.8;44.3;144.9;0.0;data/traffic_tugu muda semarang_Jumat-10.20.png
+29;tugu muda semarang;Jumat;10.30;lancar;3422.8;260.1;152.6;0.0;data/traffic_tugu muda semarang_Jumat-10.30.png
+30;tugu muda semarang;Jumat;10.40;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Jumat-10.40.png
+31;tugu muda semarang;Jumat;10.50;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Jumat-10.50.png
+32;tugu muda semarang;Jumat;11.00;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Jumat-11.00.png
+33;tugu muda semarang;Jumat;11.10;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Jumat-11.10.png
+34;tugu muda semarang;Jumat;11.20;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Jumat-11.20.png
+35;tugu muda semarang;Jumat;11.30;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Jumat-11.30.png
+36;tugu muda semarang;Jumat;11.40;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Jumat-11.40.png
+37;tugu muda semarang;Jumat;11.50;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Jumat-11.50.png
+38;tugu muda semarang;Jumat;12.00;lancar;3475.1;373.9;6.6;0.0;data/traffic_tugu muda semarang_Jumat-12.00.png
+39;tugu muda semarang;Jumat;12.05;lancar;3475.1;373.9;6.6;0.0;data/traffic_tugu muda semarang_Jumat-12.05.png
+40;tugu muda semarang;Jumat;12.15;lancar;3475.1;373.9;6.6;0.0;data/traffic_tugu muda semarang_Jumat-12.15.png
+41;tugu muda semarang;Jumat;12.25;lancar;3475.1;373.9;6.6;0.0;data/traffic_tugu muda semarang_Jumat-12.25.png
+42;tugu muda semarang;Jumat;12.35;lancar;3475.1;373.9;6.6;0.0;data/traffic_tugu muda semarang_Jumat-12.35.png
+43;tugu muda semarang;Jumat;12.45;lancar;3301.2;550.6;6.6;0.0;data/traffic_tugu muda semarang_Jumat-12.45.png
+44;tugu muda semarang;Jumat;12.55;lancar;3347.6;503.0;6.6;0.0;data/traffic_tugu muda semarang_Jumat-12.55.png
+45;tugu muda semarang;Jumat;13.05;lancar;3347.6;503.0;6.6;0.0;data/traffic_tugu muda semarang_Jumat-13.05.png
+46;tugu muda semarang;Jumat;13.15;lancar;3301.2;398.6;137.9;0.0;data/traffic_tugu muda semarang_Jumat-13.15.png
+47;tugu muda semarang;Jumat;13.25;lancar;3046.5;660.9;137.9;0.0;data/traffic_tugu muda semarang_Jumat-13.25.png
+48;tugu muda semarang;Jumat;13.35;lancar;3046.5;660.9;137.9;0.0;data/traffic_tugu muda semarang_Jumat-13.35.png
+49;tugu muda semarang;Jumat;13.45;lancar;3131.6;527.1;168.7;9.9;data/traffic_tugu muda semarang_Jumat-13.45.png
+50;tugu muda semarang;Jumat;13.55;lancar;3247.1;437.1;144.9;9.9;data/traffic_tugu muda semarang_Jumat-13.55.png
+51;tugu muda semarang;Jumat;14.00;lancar;3247.1;437.1;144.9;9.9;data/traffic_tugu muda semarang_Jumat-14.00.png
+52;tugu muda semarang;Jumat;14.10;lancar;3247.1;453.2;130.2;9.9;data/traffic_tugu muda semarang_Jumat-14.10.png
+53;tugu muda semarang;Jumat;14.20;lancar;3247.1;453.2;130.2;9.9;data/traffic_tugu muda semarang_Jumat-14.20.png
+54;tugu muda semarang;Jumat;14.30;lancar;2888.9;811.2;144.9;9.9;data/traffic_tugu muda semarang_Jumat-14.30.png
+55;tugu muda semarang;Jumat;14.40;lancar;2913.3;801.4;130.2;9.9;data/traffic_tugu muda semarang_Jumat-14.40.png
+56;tugu muda semarang;Jumat;14.50;lancar;2913.3;801.4;130.2;9.9;data/traffic_tugu muda semarang_Jumat-14.50.png
+57;tugu muda semarang;Jumat;15.00;lancar;2924.0;792.8;137.9;0.0;data/traffic_tugu muda semarang_Jumat-15.00.png
+58;tugu muda semarang;Jumat;15.10;lancar;2867.3;850.5;137.9;0.0;data/traffic_tugu muda semarang_Jumat-15.10.png
+59;tugu muda semarang;Jumat;15.20;lancar;2867.3;850.5;137.9;0.0;data/traffic_tugu muda semarang_Jumat-15.20.png
+60;tugu muda semarang;Jumat;15.30;lancar;3257.8;596.6;6.6;0.0;data/traffic_tugu muda semarang_Jumat-15.30.png
+61;tugu muda semarang;Jumat;15.40;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Jumat-15.40.png
+62;tugu muda semarang;Jumat;15.50;lancar;3476.9;373.6;6.6;0.0;data/traffic_tugu muda semarang_Jumat-15.50.png
+63;tugu muda semarang;Jumat;16.00;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Jumat-16.00.png
+64;tugu muda semarang;Jumat;16.05;lancar;3358.3;494.4;6.6;0.0;data/traffic_tugu muda semarang_Jumat-16.05.png
+65;tugu muda semarang;Jumat;16.15;lancar;3311.9;390.0;137.9;0.0;data/traffic_tugu muda semarang_Jumat-16.15.png
+66;tugu muda semarang;Jumat;16.25;lancar;3091.0;618.8;137.9;0.0;data/traffic_tugu muda semarang_Jumat-16.25.png
+67;tugu muda semarang;Jumat;16.35;lancar;3091.0;618.8;137.9;0.0;data/traffic_tugu muda semarang_Jumat-16.35.png
+68;tugu muda semarang;Jumat;16.45;lancar;3091.0;618.8;137.9;0.0;data/traffic_tugu muda semarang_Jumat-16.45.png
+69;tugu muda semarang;Jumat;16.55;lancar;3277.6;578.4;6.6;0.0;data/traffic_tugu muda semarang_Jumat-16.55.png
+70;tugu muda semarang;Jumat;17.05;lancar;3277.6;578.4;6.6;0.0;data/traffic_tugu muda semarang_Jumat-17.05.png
+71;tugu muda semarang;Jumat;17.15;lancar;3091.0;627.6;130.2;0.0;data/traffic_tugu muda semarang_Jumat-17.15.png
+72;tugu muda semarang;Jumat;17.25;lancar;2854.6;871.0;130.2;0.0;data/traffic_tugu muda semarang_Jumat-17.25.png
+73;tugu muda semarang;Jumat;17.35;lancar;2854.6;871.0;130.2;0.0;data/traffic_tugu muda semarang_Jumat-17.35.png
+74;tugu muda semarang;Jumat;17.45;lancar;3292.1;564.2;6.6;0.0;data/traffic_tugu muda semarang_Jumat-17.45.png
+75;tugu muda semarang;Jumat;17.55;lancar;3331.7;523.8;6.6;0.0;data/traffic_tugu muda semarang_Jumat-17.55.png
+76;tugu muda semarang;Jumat;18.00;lancar;3331.7;523.8;6.6;0.0;data/traffic_tugu muda semarang_Jumat-18.00.png
+77;tugu muda semarang;Jumat;18.10;lancar;3442.6;266.8;130.2;0.0;data/traffic_tugu muda semarang_Jumat-18.10.png
+78;tugu muda semarang;Jumat;18.20;lancar;3442.6;266.8;130.2;0.0;data/traffic_tugu muda semarang_Jumat-18.20.png
+79;tugu muda semarang;Jumat;18.30;lancar;3453.2;258.0;130.2;0.0;data/traffic_tugu muda semarang_Jumat-18.30.png
+80;tugu muda semarang;Jumat;18.40;lancar;3250.6;426.0;130.2;0.0;data/traffic_tugu muda semarang_Jumat-18.40.png
+81;tugu muda semarang;Jumat;18.50;lancar;3250.6;426.0;130.2;0.0;data/traffic_tugu muda semarang_Jumat-18.50.png
+82;tugu muda semarang;Jumat;19.00;lancar;3604.3;106.2;130.2;0.0;data/traffic_tugu muda semarang_Jumat-19.00.png
+83;tugu muda semarang;Jumat;19.10;lancar;3453.2;410.0;0.0;0.0;data/traffic_tugu muda semarang_Jumat-19.10.png
+84;tugu muda semarang;Jumat;19.20;lancar;3453.2;410.0;0.0;0.0;data/traffic_tugu muda semarang_Jumat-19.20.png
+85;tugu muda semarang;Jumat;19.30;lancar;3262.7;592.9;0.0;0.0;data/traffic_tugu muda semarang_Jumat-19.30.png
+86;tugu muda semarang;Jumat;19.40;lancar;3298.8;556.3;0.0;0.0;data/traffic_tugu muda semarang_Jumat-19.40.png
+87;tugu muda semarang;Jumat;19.50;lancar;3298.8;556.3;0.0;0.0;data/traffic_tugu muda semarang_Jumat-19.50.png
+88;tugu muda semarang;Jumat;20.00;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Jumat-20.00.png
+89;tugu muda semarang;Jumat;20.05;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Jumat-20.05.png
+90;tugu muda semarang;Jumat;20.15;lancar;3489.3;373.4;0.0;0.0;data/traffic_tugu muda semarang_Jumat-20.15.png
+91;tugu muda semarang;Jumat;20.25;lancar;3616.4;241.9;0.0;0.0;data/traffic_tugu muda semarang_Jumat-20.25.png
+92;tugu muda semarang;Jumat;20.35;lancar;3616.4;241.9;0.0;0.0;data/traffic_tugu muda semarang_Jumat-20.35.png
+93;tugu muda semarang;Jumat;20.45;lancar;3703.0;156.3;0.0;0.0;data/traffic_tugu muda semarang_Jumat-20.45.png
+94;tugu muda semarang;Jumat;20.55;lancar;3505.5;355.7;0.0;0.0;data/traffic_tugu muda semarang_Jumat-20.55.png
+95;tugu muda semarang;Jumat;21.05;lancar;3505.5;355.7;0.0;0.0;data/traffic_tugu muda semarang_Jumat-21.05.png
+96;tugu muda semarang;Jumat;21.15;lancar;3505.5;355.7;0.0;0.0;data/traffic_tugu muda semarang_Jumat-21.15.png
+97;tugu muda semarang;Jumat;21.25;lancar;3435.7;425.6;0.0;0.0;data/traffic_tugu muda semarang_Jumat-21.25.png
+98;tugu muda semarang;Jumat;21.35;lancar;3435.7;425.6;0.0;0.0;data/traffic_tugu muda semarang_Jumat-21.35.png
+99;tugu muda semarang;Jumat;21.45;lancar;3229.4;629.9;0.0;0.0;data/traffic_tugu muda semarang_Jumat-21.45.png
+100;tugu muda semarang;Jumat;21.55;lancar;3299.0;558.6;0.0;0.0;data/traffic_tugu muda semarang_Jumat-21.55.png
+101;tugu muda semarang;Jumat;22.00;lancar;3299.0;558.6;0.0;0.0;data/traffic_tugu muda semarang_Jumat-22.00.png
+1;tugu muda semarang;Sabtu;06.00;lancar;3465.2;350.2;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-06.00.png
+2;tugu muda semarang;Sabtu;06.10;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-06.10.png
+3;tugu muda semarang;Sabtu;06.20;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-06.20.png
+4;tugu muda semarang;Sabtu;06.30;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-06.30.png
+5;tugu muda semarang;Sabtu;06.40;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-06.40.png
+6;tugu muda semarang;Sabtu;06.50;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-06.50.png
+7;tugu muda semarang;Sabtu;07.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-07.00.png
+8;tugu muda semarang;Sabtu;07.10;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-07.10.png
+9;tugu muda semarang;Sabtu;07.20;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-07.20.png
+10;tugu muda semarang;Sabtu;07.30;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-07.30.png
+11;tugu muda semarang;Sabtu;07.40;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-07.40.png
+12;tugu muda semarang;Sabtu;07.50;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-07.50.png
+13;tugu muda semarang;Sabtu;08.00;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-08.00.png
+14;tugu muda semarang;Sabtu;08.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-08.05.png
+15;tugu muda semarang;Sabtu;08.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-08.15.png
+16;tugu muda semarang;Sabtu;08.25;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-08.25.png
+17;tugu muda semarang;Sabtu;08.35;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-08.35.png
+18;tugu muda semarang;Sabtu;08.45;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-08.45.png
+19;tugu muda semarang;Sabtu;08.55;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-08.55.png
+20;tugu muda semarang;Sabtu;09.05;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-09.05.png
+21;tugu muda semarang;Sabtu;09.15;lancar;3857.7;0.0;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-09.15.png
+22;tugu muda semarang;Sabtu;09.25;lancar;3636.8;220.6;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-09.25.png
+23;tugu muda semarang;Sabtu;09.35;lancar;3636.8;220.6;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-09.35.png
+24;tugu muda semarang;Sabtu;09.45;lancar;3434.2;388.6;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-09.45.png
+25;tugu muda semarang;Sabtu;09.55;lancar;3434.2;388.6;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-09.55.png
+26;tugu muda semarang;Sabtu;10.00;lancar;3434.2;388.6;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-10.00.png
+27;tugu muda semarang;Sabtu;10.10;lancar;3398.1;425.2;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-10.10.png
+28;tugu muda semarang;Sabtu;10.20;lancar;3398.1;425.2;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-10.20.png
+29;tugu muda semarang;Sabtu;10.30;lancar;2906.7;934.2;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-10.30.png
+30;tugu muda semarang;Sabtu;10.40;lancar;3055.3;808.1;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-10.40.png
+31;tugu muda semarang;Sabtu;10.50;lancar;3055.3;808.1;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-10.50.png
+32;tugu muda semarang;Sabtu;11.00;lancar;2958.6;909.2;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-11.00.png
+33;tugu muda semarang;Sabtu;11.10;lancar;2858.0;1013.6;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-11.10.png
+34;tugu muda semarang;Sabtu;11.20;lancar;2858.0;1013.6;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-11.20.png
+35;tugu muda semarang;Sabtu;11.30;lancar;2777.8;1094.7;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-11.30.png
+36;tugu muda semarang;Sabtu;11.40;lancar;2811.6;1061.2;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-11.40.png
+37;tugu muda semarang;Sabtu;11.50;lancar;2811.6;1061.2;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-11.50.png
+38;tugu muda semarang;Sabtu;12.00;lancar;2944.3;923.7;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-12.00.png
+39;tugu muda semarang;Sabtu;12.05;lancar;2944.3;923.7;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-12.05.png
+40;tugu muda semarang;Sabtu;12.15;lancar;2970.4;897.2;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-12.15.png
+41;tugu muda semarang;Sabtu;12.25;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-12.25.png
+42;tugu muda semarang;Sabtu;12.35;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-12.35.png
+43;tugu muda semarang;Sabtu;12.45;lancar;3311.9;542.0;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-12.45.png
+44;tugu muda semarang;Sabtu;12.55;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-12.55.png
+45;tugu muda semarang;Sabtu;13.05;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-13.05.png
+46;tugu muda semarang;Sabtu;13.15;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-13.15.png
+47;tugu muda semarang;Sabtu;13.25;lancar;2723.7;997.3;137.9;0.0;data/traffic_tugu muda semarang_Sabtu-13.25.png
+48;tugu muda semarang;Sabtu;13.35;lancar;2723.7;997.3;137.9;0.0;data/traffic_tugu muda semarang_Sabtu-13.35.png
+49;tugu muda semarang;Sabtu;13.45;lancar;2757.5;963.8;137.9;0.0;data/traffic_tugu muda semarang_Sabtu-13.45.png
+50;tugu muda semarang;Sabtu;13.55;lancar;2757.5;1115.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-13.55.png
+51;tugu muda semarang;Sabtu;14.00;lancar;2757.5;1115.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-14.00.png
+52;tugu muda semarang;Sabtu;14.10;lancar;2757.5;963.8;137.9;0.0;data/traffic_tugu muda semarang_Sabtu-14.10.png
+53;tugu muda semarang;Sabtu;14.20;lancar;2757.5;963.8;137.9;0.0;data/traffic_tugu muda semarang_Sabtu-14.20.png
+54;tugu muda semarang;Sabtu;14.30;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-14.30.png
+55;tugu muda semarang;Sabtu;14.40;lancar;2924.0;792.8;137.9;0.0;data/traffic_tugu muda semarang_Sabtu-14.40.png
+56;tugu muda semarang;Sabtu;14.50;lancar;2924.0;792.8;137.9;0.0;data/traffic_tugu muda semarang_Sabtu-14.50.png
+57;tugu muda semarang;Sabtu;15.00;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-15.00.png
+58;tugu muda semarang;Sabtu;15.10;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-15.10.png
+59;tugu muda semarang;Sabtu;15.20;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-15.20.png
+60;tugu muda semarang;Sabtu;15.30;lancar;2943.8;926.6;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-15.30.png
+61;tugu muda semarang;Sabtu;15.40;lancar;2943.8;926.6;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-15.40.png
+62;tugu muda semarang;Sabtu;15.50;lancar;2943.8;926.6;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-15.50.png
+63;tugu muda semarang;Sabtu;16.00;lancar;2904.5;963.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-16.00.png
+64;tugu muda semarang;Sabtu;16.05;lancar;2904.5;963.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-16.05.png
+65;tugu muda semarang;Sabtu;16.15;lancar;2758.2;1118.2;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-16.15.png
+66;tugu muda semarang;Sabtu;16.25;lancar;2913.3;953.4;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-16.25.png
+67;tugu muda semarang;Sabtu;16.35;lancar;2913.3;953.4;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-16.35.png
+68;tugu muda semarang;Sabtu;16.45;lancar;2924.0;944.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-16.45.png
+69;tugu muda semarang;Sabtu;16.55;lancar;3312.2;542.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-16.55.png
+70;tugu muda semarang;Sabtu;17.05;lancar;3312.2;542.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-17.05.png
+71;tugu muda semarang;Sabtu;17.15;lancar;3165.2;694.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-17.15.png
+72;tugu muda semarang;Sabtu;17.25;lancar;2893.8;972.4;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-17.25.png
+73;tugu muda semarang;Sabtu;17.35;lancar;2893.8;972.4;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-17.35.png
+74;tugu muda semarang;Sabtu;17.45;lancar;2658.8;1207.1;14.3;0.0;data/traffic_tugu muda semarang_Sabtu-17.45.png
+75;tugu muda semarang;Sabtu;17.55;lancar;3030.3;817.2;14.3;0.0;data/traffic_tugu muda semarang_Sabtu-17.55.png
+76;tugu muda semarang;Sabtu;18.00;lancar;3030.3;817.2;14.3;0.0;data/traffic_tugu muda semarang_Sabtu-18.00.png
+77;tugu muda semarang;Sabtu;18.10;lancar;3055.8;805.1;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-18.10.png
+78;tugu muda semarang;Sabtu;18.20;lancar;3055.8;805.1;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-18.20.png
+79;tugu muda semarang;Sabtu;18.30;lancar;3457.1;395.8;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-18.30.png
+80;tugu muda semarang;Sabtu;18.40;lancar;3458.9;390.0;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-18.40.png
+81;tugu muda semarang;Sabtu;18.50;lancar;3458.9;390.0;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-18.50.png
+82;tugu muda semarang;Sabtu;19.00;lancar;3222.3;634.1;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-19.00.png
+83;tugu muda semarang;Sabtu;19.10;lancar;2987.4;874.2;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-19.10.png
+84;tugu muda semarang;Sabtu;19.20;lancar;2987.4;874.2;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-19.20.png
+85;tugu muda semarang;Sabtu;19.30;lancar;3254.2;602.7;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-19.30.png
+86;tugu muda semarang;Sabtu;19.40;lancar;3213.3;638.7;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-19.40.png
+87;tugu muda semarang;Sabtu;19.50;lancar;3213.3;638.7;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-19.50.png
+88;tugu muda semarang;Sabtu;20.00;lancar;3247.8;607.6;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-20.00.png
+89;tugu muda semarang;Sabtu;20.05;lancar;3247.8;607.6;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-20.05.png
+90;tugu muda semarang;Sabtu;20.15;lancar;3163.7;692.1;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-20.15.png
+91;tugu muda semarang;Sabtu;20.25;lancar;3233.4;622.5;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-20.25.png
+92;tugu muda semarang;Sabtu;20.35;lancar;3233.4;622.5;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-20.35.png
+93;tugu muda semarang;Sabtu;20.45;lancar;3422.8;428.2;6.6;0.0;data/traffic_tugu muda semarang_Sabtu-20.45.png
+94;tugu muda semarang;Sabtu;20.55;lancar;3218.4;648.3;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-20.55.png
+95;tugu muda semarang;Sabtu;21.05;lancar;3218.4;648.3;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-21.05.png
+96;tugu muda semarang;Sabtu;21.15;lancar;3218.4;648.3;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-21.15.png
+97;tugu muda semarang;Sabtu;21.25;lancar;3182.3;676.9;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-21.25.png
+98;tugu muda semarang;Sabtu;21.35;lancar;3182.3;676.9;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-21.35.png
+99;tugu muda semarang;Sabtu;21.45;lancar;3381.6;480.2;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-21.45.png
+100;tugu muda semarang;Sabtu;21.55;lancar;3451.4;410.3;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-21.55.png
+101;tugu muda semarang;Sabtu;22.00;lancar;3451.4;410.3;0.0;0.0;data/traffic_tugu muda semarang_Sabtu-22.00.png

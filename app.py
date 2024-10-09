@@ -3,8 +3,10 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.common.exceptions import WebDriverException
 import time
 import csv
+import image_processor
 
 # initiate driver
 print("initiate driver")
@@ -18,10 +20,20 @@ time.sleep(3)
 
 # search jalan
 print("search jalan")
-search = "jalan jenderal sudirman semarang"
+search = "tugu muda semarang"
 search_box = driver.find_element(By.NAME, "q")
 search_box.send_keys(search + Keys.RETURN)
-time.sleep(2)
+time.sleep(3)
+
+# zoom in
+canvas = driver.find_element(By.CLASS_NAME, "widget-scene-canvas")
+for _ in range(2):
+    ActionChains(driver).move_to_element(canvas).click(canvas).send_keys('+').perform()
+    time.sleep(1)
+
+# shift + kanan
+ActionChains(driver).key_down(Keys.SHIFT).send_keys(Keys.ARROW_RIGHT).key_up(Keys.SHIFT).perform()
+time.sleep(1)
 
 # Arahkan mouse ke tombol "Lapisan"
 print('Arahkan mouse ke tombol "Lapisan"')
@@ -59,7 +71,7 @@ time_slider = driver.find_element(By.XPATH, "//span[@role='slider']")
 time.sleep(2)
 
 csv_data = [
-    ["no.", "lokasi", "hari", "jam", "file"] #kolom
+    ["no.", "lokasi", "hari", "jam", "lalu lintas", "skor cepat", "skor padat", "skor lambat", "skor sangat lambat", "file"]
 ]
 days = ["Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu"]
 for day in days:
@@ -91,20 +103,43 @@ for day in days:
         print("waktu_hasil", waktu_hasil)
         # save data
         filename = f'data/traffic_{search}_{day}-{waktu_hasil[1]}.png'
-        # save file
+        # simpan ss
+        print("simpan ss")
         driver.save_screenshot(filename)
-        # go to save csv
-        csv_data.append([(i+1), search, day, waktu_hasil[1], filename])
+        # proses ss
+        print("proses ss")
+        hex_colors = [
+            '#11d68f',  # Hijau (cepat)
+            '#ffcf43',  # Kuning (padat)
+            '#f24e42',  # Merah bata (lambat)
+            '#a92727',  # Merah marun (sangat lambat)
+        ]
+        process = image_processor.process_image(filename, hex_colors)
+        color_count = process["color_count"]
+        max_color = max(color_count)
+        index_color = color_count.index(max_color)
+        lalu_lintas = "lancar"
+        if index_color == 1:
+            lalu_lintas = "padat"
+        elif index_color == 2:
+            lalu_lintas = "lambat"
+        elif index_color == 3:
+            lalu_lintas = "sangat lambat"
+        # just for normalisasi
+        faktor_pembagi = 10
+        csv_data.append([(i+1), search, day, waktu_hasil[1], lalu_lintas, color_count[0]/faktor_pembagi, color_count[1]/faktor_pembagi, color_count[2]/faktor_pembagi, color_count[3]/faktor_pembagi, filename])
+
         if waktu_hasil[1] == "22.00":
             print("reach 22.00, complete for " + day)
             break
         time_slider.send_keys(Keys.ARROW_RIGHT)
         time.sleep(1)
+
 print("scraping done")
 
-# buat versi tabel (csv) nya
+# dump ke csv
 with open('typical_traffic.csv', mode='w', newline='') as file:
     writer = csv.writer(file, delimiter=';')
     writer.writerows(csv_data)
-    
+
 driver.quit()
